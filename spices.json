@@ -1,0 +1,136 @@
+[
+  {
+    "id": "kharkoum",
+    "name": "الخرقوم البلدي",
+    "pricePerKg": 70,
+    "image": "https://images.unsplash.com/photo-1599909533681-74dc70b13292?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "zanjabil",
+    "name": "الزنجبيل",
+    "pricePerKg": 90,
+    "image": "https://images.unsplash.com/photo-1599909533681-74dc70b13292?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "black-pepper",
+    "name": "الفلفل الأسود",
+    "pricePerKg": 130,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "white-pepper",
+    "name": "الفلفل الأبيض",
+    "pricePerKg": 200,
+    "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "red-pepper",
+    "name": "الفلفل الأحمر",
+    "price": 50,
+    "fixedWeightGrams": 100,
+    "weight": "100 غرام",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "cumin-indian",
+    "name": "الكمون الهندي",
+    "pricePerKg": 120,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "cumin-beldi",
+    "name": "الكمون البلدي",
+    "pricePerKg": 300,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "cumin-egypt",
+    "name": "الكمون المصري",
+    "pricePerKg": 180,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "cinnamon-beldi",
+    "name": "القرفة البلدية",
+    "pricePerKg": 90,
+    "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "cinnamon-china",
+    "name": "القرفة الصينية",
+    "pricePerKg": 150,
+    "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "cinnamon-ceylon",
+    "name": "القرفة السيلانية",
+    "pricePerKg": 700,
+    "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "cardamom",
+    "name": "الهيل",
+    "pricePerKg": 700,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bessibissa",
+    "name": "بسيبيسا",
+    "pricePerKg": 700,
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "badyana",
+    "name": "باضيانة (اليانسون النجمي)",
+    "pricePerKg": 300,
+    "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "fish-spices",
+    "name": "خلطة توابل السمك",
+    "pricePerKg": 150,
+    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bastila-fish",
+    "name": "خلطة توابل بسطيلة السمك",
+    "pricePerKg": 200,
+    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "bastila-chicken",
+    "name": "خلطة توابل بسطيلة الدجاج",
+    "pricePerKg": 200,
+    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "meat-spices",
+    "name": "خلطة توابل اللحم",
+    "pricePerKg": 250,
+    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "chicken-spices",
+    "name": "خلطة توابل الدجاج",
+    "pricePerKg": 200,
+    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "ras-el-hanout",
+    "name": "خلطة رأس الحانوت",
+    "pricePerKg": 300,
+    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "garlic-flaked",
+    "name": "الثوم مهرمش",
+    "pricePerKg": 150,
+    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "onion-flaked",
+    "name": "البصل مهرمش",
+    "pricePerKg": 150,
+    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?auto=format&fit=crop&w=600&q=80"
+  }
+]
