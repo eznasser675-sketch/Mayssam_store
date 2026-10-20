@@ -26,7 +26,6 @@
   {
     "id": "red-pepper",
     "name": "الفلفل الأحمر",
-    "price": 50,
     "pricePerKg": 700,
     "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
   },
