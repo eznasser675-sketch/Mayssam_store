@@ -26,7 +26,7 @@
   {
     "id": "red-pepper",
     "name": "الفلفل الأحمر",
-    "pricePerKg": 700,
+    "pricePerKg": 500,
     "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg"
   },
   {
@@ -87,48 +87,46 @@
     "id": "fish-spices",
     "name": "خلطة توابل السمك",
     "pricePerKg": 150,
-    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+    "image": "https://i.ibb.co/vxvmwZFR/1792573741987.jpg"
   },
   {
     "id": "bastila-fish",
     "name": "خلطة توابل بسطيلة السمك",
     "pricePerKg": 200,
-    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+    "image": "https://i.ibb.co/HMzsjT5/1792573892504.jpg"
   },
   {
     "id": "bastila-chicken",
     "name": "خلطة توابل بسطيلة الدجاج",
     "pricePerKg": 200,
-    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+    "image": "https://i.ibb.co/HMzsjT5/1792573892504.jpg"
   },
   {
     "id": "meat-spices",
     "name": "خلطة توابل اللحم",
     "pricePerKg": 250,
-    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
-  },
+    "image": "https://i.ibb.co/0VmDbzV9/1792574068604.jpg"
   {
     "id": "chicken-spices",
     "name": "خلطة توابل الدجاج",
     "pricePerKg": 200,
-    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
-  },
+    "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg"
   {
     "id": "ras-el-hanout",
     "name": "خلطة رأس الحانوت",
     "pricePerKg": 300,
-    "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?auto=format&fit=crop&w=600&q=80"
+    "image": "https://i.ibb.co/kFrxnHx/Screenshot-20261021-091859.jpg"
   },
   {
     "id": "garlic-flaked",
     "name": "الثوم مهرمش",
     "pricePerKg": 150,
-    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?auto=format&fit=crop&w=600&q=80"
+    "image": "https://i.ibb.co/DPGVF1TM/IMG-20261021-WA0000.jpg"
   },
   {
     "id": "onion-flaked",
     "name": "البصل مهرمش",
     "pricePerKg": 150,
-    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?auto=format&fit=crop&w=600&q=80"
+    "image": "https://i.ibb.co/JR18ckqD/IMG-20261021-WA0001-1.jpg"
   }
 ]
