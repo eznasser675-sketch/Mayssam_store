@@ -106,11 +106,13 @@
     "name": "خلطة توابل اللحم",
     "pricePerKg": 250,
     "image": "https://i.ibb.co/0VmDbzV9/1792574068604.jpg"
+  },
   {
     "id": "chicken-spices",
     "name": "خلطة توابل الدجاج",
     "pricePerKg": 200,
     "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg"
+  },
   {
     "id": "ras-el-hanout",
     "name": "خلطة رأس الحانوت",
