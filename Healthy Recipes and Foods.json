@@ -95,7 +95,7 @@
   {
     "id": "zit_argan_akl",
     "name": "زيت أركان للأكل",
-    "pricePerKg": 700,
+    "pricePerKg": 600,
     "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "isLiquid": true,
@@ -177,7 +177,7 @@
   {
     "id": "moksarat_assel",
     "name": "مكسرات بالعسل",
-    "pricePerKg": 0,
+    "pricePerKg": 230,
     "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
@@ -193,7 +193,7 @@
   {
     "id": "mokamil_nisaa",
     "name": "المكمل الغذائي للنساء",
-    "pricePerKg": 0,
+    "pricePerKg": 300,
     "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
@@ -209,7 +209,7 @@
   {
     "id": "mokamil_rijal",
     "name": "المكمل الغذائي للرجال",
-    "pricePerKg": 0,
+    "pricePerKg": 300,
     "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
