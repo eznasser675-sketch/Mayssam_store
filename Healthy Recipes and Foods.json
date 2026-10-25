@@ -7,24 +7,24 @@
     "hasVariants": true,
     "variants": [
       {
-        "id": "argan",
-        "name": "بزيت أركان",
-        "pricePerKg": 180
-      },
-      {
-        "id": "zitoun",
-        "name": "بزيت الزيتون",
+        "id": "zitoun_msous",
+        "name": "بزيت الزيتون بدون عسل",
         "pricePerKg": 150
       },
       {
-        "id": "assel",
-        "name": "بالعسل",
+        "id": "zitoun_assel",
+        "name": "بزيت الزيتون مع العسل",
         "pricePerKg": 180
       },
       {
-        "id": "msous",
-        "name": "بدون عسل (مسوس)",
-        "pricePerKg": 160
+        "id": "argan_msous",
+        "name": "بزيت أركان بدون عسل",
+        "pricePerKg": 220
+      },
+      {
+        "id": "argan_assel",
+        "name": "بزيت أركان مع العسل",
+        "pricePerKg": 250
       }
     ],
     "benefits": [
@@ -45,24 +45,24 @@
     "hasVariants": true,
     "variants": [
       {
-        "id": "argan",
-        "name": "بزيت أركان",
+        "id": "zitoun_msous",
+        "name": "بزيت الزيتون بدون عسل",
+        "pricePerKg": 70
+      },
+      {
+        "id": "zitoun_assel",
+        "name": "بزيت الزيتون مع العسل",
+        "pricePerKg": 80
+      },
+      {
+        "id": "argan_msous",
+        "name": "بزيت أركان بدون عسل",
         "pricePerKg": 120
       },
       {
-        "id": "zitoun",
-        "name": "بزيت الزيتون",
-        "pricePerKg": 80
-      },
-      {
-        "id": "assel",
-        "name": "بالعسل",
-        "pricePerKg": 100
-      },
-      {
-        "id": "msous",
-        "name": "بدون عسل (مسوس)",
-        "pricePerKg": 80
+        "id": "argan_assel",
+        "name": "بزيت أركان مع العسل",
+        "pricePerKg": 140
       }
     ],
     "benefits": [
