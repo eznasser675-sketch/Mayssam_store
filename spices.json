@@ -6,16 +6,16 @@
     "image": "https://i.ibb.co/wrJbKsWw/file-0000000052ec821083ed812eba7aeaf2.png"
   },
   {
-    "id": "zanjabil",
-    "name": "الزنجبيل (سكنجبير)",
-    "pricePerKg": 90,
-    "image": "https://i.ibb.co/xKPD2L3H/1792539620045.jpg"
-  },
-  {
     "id": "red-pepper",
     "name": "الفلفل الأحمر (التحميرة)",
     "pricePerKg": 50,
     "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg"
+  },
+  {
+    "id": "zanjabil",
+    "name": "الزنجبيل (سكنجبير)",
+    "pricePerKg": 90,
+    "image": "https://i.ibb.co/xKPD2L3H/1792539620045.jpg"
   },
   {
     "id": "black-pepper",
