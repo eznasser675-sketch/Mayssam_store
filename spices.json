@@ -12,16 +12,16 @@
     "image": "https://i.ibb.co/xKPD2L3H/1792539620045.jpg"
   },
   {
-    "id": "black-pepper",
-    "name": "الفلفل الأسود (الإبزار الأكحل)",
-    "pricePerKg": 130,
-    "image": "https://i.ibb.co/9HkKv5rb/1792539691968.jpg"
-  },
-  {
     "id": "red-pepper",
     "name": "الفلفل الأحمر (التحميرة)",
     "pricePerKg": 50,
     "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg"
+  },
+  {
+    "id": "black-pepper",
+    "name": "الفلفل الأسود (الإبزار الأكحل)",
+    "pricePerKg": 130,
+    "image": "https://i.ibb.co/9HkKv5rb/1792539691968.jpg"
   },
   {
     "id": "white-pepper",
