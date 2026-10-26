@@ -18,16 +18,16 @@
     "image": "https://i.ibb.co/9HkKv5rb/1792539691968.jpg"
   },
   {
-    "id": "white-pepper",
-    "name": "الفلفل الأبيض (الإبزار الأبيض)",
-    "pricePerKg": 200,
-    "image": "https://i.ibb.co/zTVM1x34/1792539758667.jpg"
-  },
-  {
     "id": "red-pepper",
     "name": "الفلفل الأحمر (التحميرة)",
     "pricePerKg": 50,
     "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg"
+  },
+  {
+    "id": "white-pepper",
+    "name": "الفلفل الأبيض (الإبزار الأبيض)",
+    "pricePerKg": 200,
+    "image": "https://i.ibb.co/zTVM1x34/1792539758667.jpg"
   },
   {
     "id": "cumin-indian",
