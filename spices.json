@@ -1,15 +1,15 @@
 [
   {
-    "id": "kharkoum",
-    "name": "الخرقوم البلدي (الكركم)",
-    "pricePerKg": 70,
-    "image": "https://i.ibb.co/wrJbKsWw/file-0000000052ec821083ed812eba7aeaf2.png"
-  },
-  {
     "id": "red-pepper",
     "name": "الفلفل الأحمر (التحميرة)",
     "pricePerKg": 50,
     "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg"
+  },
+  {
+    "id": "kharkoum",
+    "name": "الخرقوم البلدي (الكركم)",
+    "pricePerKg": 70,
+    "image": "https://i.ibb.co/wrJbKsWw/file-0000000052ec821083ed812eba7aeaf2.png"
   },
   {
     "id": "zanjabil",
