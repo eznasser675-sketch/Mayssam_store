@@ -213,8 +213,9 @@
   {
     "id": "zari3at_krafes",
     "name": "زريعة الكرافس",
+    "image": "https://i.ibb.co/6c9MhmNr/IMG-6017.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 100,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "standard",
     "benefits": [
       "تعالج النقرس وتساعد الجسم في التخلص من حمض اليوريك المتراكم في المفاصل.",
