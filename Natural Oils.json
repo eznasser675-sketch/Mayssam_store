@@ -142,11 +142,13 @@
   {
     "id": "zit_erq_sous",
     "name": "زيت عرق السوس",
-    "price": 0,
     "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
+    "weeklyOrders": 15,
+    "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
-    "isLiquid": true,
+    "price": 69,
+    "pricePerKg": 69,
     "benefits": [
       "مفتح قوي وطبيعي للبشرة (كورتيزون طبيعي).",
       "يزيل التصبغات العميقة ويوحد لون الجسم.",
