@@ -187,6 +187,14 @@
     "image": "https://i.ibb.co/yc9vp8qj/1000023594.png",
     "weeklyOrders": 11,
     "pricePerKg": 240,
-    "sliderType": "half_full"
+    "sliderType": "half_full",
+    "benefits": [
+      "مفيد جداً لمشاكل القولون والجهاز الهضمي",
+      "يعالج الإمساك ومطهر للمسالك البولية"
+    ],
+    "usage": [
+      "تؤخذ ملعقة صغيرة يومياً على الريق",
+      "أو تخلط في كأس ماء دافئ صباحاً"
+    ]
   }
 ]
