@@ -114,9 +114,10 @@
   },
   {
     "id": "assel_limoun",
-    "name": "عسل الليمون",
+    "name": "عسل البرتقال",
+    "image": "https://i.ibb.co/vvqbWTRp/1000023595.png",
+    "weeklyOrders": 16,
     "pricePerKg": 100,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "مهدئ للأعصاب ويساعد على الاسترخاء والنوم.",
