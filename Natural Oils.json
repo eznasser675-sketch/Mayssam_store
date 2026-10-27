@@ -122,11 +122,13 @@
   {
     "id": "zit_louz_mor",
     "name": "زيت اللوز المر",
-    "price": 0,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
+    "image": "https://i.ibb.co/jS8WwT6/IMG-6025.jpg",
+    "weeklyOrders": 15,
+    "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
-    "isLiquid": true,
+    "price": 69,
+    "pricePerKg": 69,
     "benefits": [
       "يزيل الكلف والتصبغات والبقع الداكنة من البشرة.",
       "يساعد في تفتيح المناطق الحساسة والجسم.",
