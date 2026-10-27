@@ -131,8 +131,9 @@
   {
     "id": "assel_daghmous",
     "name": "عسل الدغموس",
+    "image": "https://i.ibb.co/YTb2HgLT/1000023587.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 250,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "مضاد حيوي طبيعي وفعال جداً ضد نزلات البرد والربو.",
