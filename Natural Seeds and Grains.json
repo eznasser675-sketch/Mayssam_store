@@ -83,7 +83,8 @@
   {
     "id": "nafe3",
     "name": "النافع",
-    "image": "https://i.ibb.co/ym1y1Qwk/IMG-6009.jpg",
+    "image": "https://i.ibb.co/7NtXFn3Z/1000023676.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 120,
     "sliderType": "standard",
     "benefits": [
