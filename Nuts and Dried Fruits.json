@@ -128,8 +128,9 @@
   {
     "id": "homs_turki",
     "name": "حمص تركيا",
+    "image": "https://i.ibb.co/Zzcxmg8X/1000023546.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 65,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "حمص تركي محمر ومقرمش يتميز بحجمه الكبير.",
