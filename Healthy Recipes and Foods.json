@@ -98,10 +98,11 @@
   {
     "id": "zit_zitoun",
     "name": "زيت الزيتون",
-    "pricePerKg": 60,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
-    "sliderType": "half_full",
+    "image": "https://i.ibb.co/jvh6mfGM/1000023599.png",
+    "weeklyOrders": 23,
     "isLiquid": true,
+    "pricePerKg": 60,
+    "sliderType": "half_full",
     "benefits": [
       "زيت زيتون بكر ممتاز عصرة أولى على البارد.",
       "مفيدة جداً لصحة القلب وتنشيط الدورة الدموية.",
