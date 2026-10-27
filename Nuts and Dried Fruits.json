@@ -56,8 +56,9 @@
   {
     "id": "garga3_kbala",
     "name": "الكركاع كبالة",
+    "image": "https://i.ibb.co/1JjQrkSj/1000023513.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 120,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "من أفضل مصادر الأوميغا 3 الطبيعية لصحة الدماغ.",
