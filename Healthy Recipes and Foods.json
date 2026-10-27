@@ -41,31 +41,32 @@
   {
     "id": "amlou_kawkaw",
     "name": "أملو بالكاوكاو",
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
-    "sliderType": "half_full",
-    "hasVariants": true,
+    "image": "https://i.ibb.co/PsZB2ZJ2/1000023575.jpg",
+    "weeklyOrders": 15,
     "variants": [
       {
-        "id": "zitoun_msous",
+        "id": "v1",
         "name": "بزيت الزيتون بدون عسل",
         "pricePerKg": 70
       },
       {
-        "id": "zitoun_assel",
+        "id": "v2",
         "name": "بزيت الزيتون مع العسل",
         "pricePerKg": 80
       },
       {
-        "id": "argan_msous",
+        "id": "v3",
         "name": "بزيت أركان بدون عسل",
         "pricePerKg": 120
       },
       {
-        "id": "argan_assel",
+        "id": "v4",
         "name": "بزيت أركان مع العسل",
         "pricePerKg": 140
       }
     ],
+    "pricePerKg": 70,
+    "sliderType": "half_full",
     "benefits": [
       "أملو اقتصادي ولذيذ جداً محضر من أجود أنواع الفول السوداني.",
       "مصدر رائع للبروتين والطاقة للرياضيين والأطفال.",
