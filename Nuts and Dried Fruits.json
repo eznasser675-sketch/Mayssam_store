@@ -182,8 +182,9 @@
   {
     "id": "kawkaw_r9i9",
     "name": "كاوكاو رقيق محمر",
+    "image": "https://i.ibb.co/3YhfM4gv/1000023561.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 60,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "كاوكاو بلدي رقيق يتميز بمذاق جد مركز ولذيذ.",
