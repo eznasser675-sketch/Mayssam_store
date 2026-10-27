@@ -146,8 +146,9 @@
   {
     "id": "homs_beldi",
     "name": "حمص بلدي",
+    "image": "https://i.ibb.co/Rk3fTZnK/1000023552.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 35,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "حمص مغربي أصيل (الگلية) محمر بطريقة تقليدية.",
