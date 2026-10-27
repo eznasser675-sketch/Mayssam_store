@@ -2,8 +2,9 @@
   {
     "id": "louz_romi_r9i9",
     "name": "اللوز الرومي رقيق",
+    "image": "https://i.ibb.co/RkLZxxmf/1000023492.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 120,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "غني بالبروتينات والدهون الصحية المفيدة للقلب.",
