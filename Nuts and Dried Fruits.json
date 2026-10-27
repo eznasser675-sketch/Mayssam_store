@@ -110,8 +110,9 @@
   {
     "id": "pistache",
     "name": "بيسطاش",
+    "image": "https://i.ibb.co/W4Swxb5z/1000023545.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 210,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "الفستق غني بالألياف ومفيد جداً للهضم.",
