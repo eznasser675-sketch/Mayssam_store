@@ -168,5 +168,13 @@
     "weeklyOrders": 6,
     "pricePerKg": 240,
     "sliderType": "half_full"
+  },
+  {
+    "id": 1793122266916,
+    "name": "عسل الخروب",
+    "image": "https://i.ibb.co/yc9vp8qj/1000023594.png",
+    "weeklyOrders": 11,
+    "pricePerKg": 240,
+    "sliderType": "half_full"
   }
 ]
