@@ -2,9 +2,10 @@
   {
     "id": "ward-beldi",
     "name": "الورد البلدي المجفف",
-    "sliderType": "standard",
-    "pricePerKg": 300,
     "image": "https://i.ibb.co/3y6rKRtQ/1792611465547.jpg",
+    "weeklyOrders": 8,
+    "pricePerKg": 300,
+    "sliderType": "standard",
     "benefits": [
       "معروف برائحته العطرية الزكية واستعماله التقليدي في العناية بالبشرة والتهدئة.",
       "يدخل في تحضير ماء الورد الطبيعي والخلطات التجميلية التقليدية للشعر والجسم.",
