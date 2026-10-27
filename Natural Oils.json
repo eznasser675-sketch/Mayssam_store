@@ -42,11 +42,13 @@
   {
     "id": "zit_sanouj",
     "name": "زيت السانوج (الحبة السوداء)",
-    "price": 0,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
+    "image": "https://i.ibb.co/bgJ8zzjb/IMG-6021.jpg",
+    "weeklyOrders": 15,
+    "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
-    "isLiquid": true,
+    "price": 69,
+    "pricePerKg": 69,
     "benefits": [
       "مقوي طبيعي للمناعة ومفيد جداً لأمراض الجهاز التنفسي والزكام.",
       "يعالج تساقط الشعر ويقوي البصيلات الضعيفة.",
