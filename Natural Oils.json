@@ -182,11 +182,13 @@
   {
     "id": "zit_termis",
     "name": "زيت الترمس",
-    "price": 0,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
+    "image": "https://i.ibb.co/0yQtQZjQ/IMG-6028.jpg",
+    "weeklyOrders": 15,
+    "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
-    "isLiquid": true,
+    "price": 69,
+    "pricePerKg": 69,
     "benefits": [
       "يشد البشرة ويقاوم التجاعيد وعلامات التقدم في السن.",
       "يساعد في تفتيح البشرة وإعطائها نضارة.",
