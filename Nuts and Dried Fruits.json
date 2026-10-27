@@ -89,8 +89,9 @@
   {
     "id": "cajou",
     "name": "الكاجو",
+    "image": "https://i.ibb.co/m5NvjxVB/1000023500.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 170,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "مصدر غني جداً بالمغنيسيوم لصحة العضلات والأعصاب.",
