@@ -149,8 +149,9 @@
   {
     "id": "moksarat_assel",
     "name": "مكسرات بالعسل",
+    "image": "https://i.ibb.co/Xrm4Cf0W/1000023598.png",
+    "weeklyOrders": 10,
     "pricePerKg": 230,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "قنبلة طاقة طبيعية تجمع بين فوائد العسل الحر وقرمشة المكسرات.",
