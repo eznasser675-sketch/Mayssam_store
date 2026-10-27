@@ -20,8 +20,9 @@
   {
     "id": "louz_romi_ghlid",
     "name": "اللوز الرومي غليض",
+    "image": "https://i.ibb.co/RptSJXH6/1000023504.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 120,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "half_full",
     "benefits": [
       "حبات كبيرة ممتازة وغنية بمضادات الأكسدة.",
