@@ -196,8 +196,9 @@
   {
     "id": "zari3at_lfessa",
     "name": "زريعة الفصة",
+    "image": "https://i.ibb.co/sdctC7rr/IMG-6016.jpg",
+    "weeklyOrders": 15,
     "pricePerKg": 100,
-    "image": "https://i.ibb.co/Y4HjXdmv/20261025-021404.png",
     "sliderType": "standard",
     "benefits": [
       "مفيدة جداً لزيادة الوزن بطريقة صحية وعلاج النحافة الشديدة.",
