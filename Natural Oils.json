@@ -3,7 +3,7 @@
     "id": "zit_coco",
     "name": "زيت جوز الهند",
     "image": "https://i.ibb.co/tTHqJtbx/IMG-6030.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -17,7 +17,17 @@
     "usage": [
       "يدهن به الشعر قبل الاستحمام (حمام زيت) ويترك لساعتين.",
       "يستعمل كمرطب ليلي للبشرة والجسم."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_saad",
@@ -37,13 +47,23 @@
     "usage": [
       "يدهن به الجلد مباشرة بعد إزالة الشعر من الجذور.",
       "تكرر العملية يومياً لمدة أسبوع بعد كل إزالة."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 9,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_sanouj",
     "name": "زيت السانوج (الحبة السوداء)",
     "image": "https://i.ibb.co/bgJ8zzjb/IMG-6021.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 22,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -57,13 +77,23 @@
     "usage": [
       "للتجميل: تدلك به فروة الرأس ويترك قبل الاستحمام.",
       "للصحة: يدهن به الصدر عند نزلات البرد أو تدلك به المفاصل."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_qronfel",
     "name": "زيت القرنفل",
     "image": "https://i.ibb.co/XkMxK6b6/IMG-6022.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 20,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -77,13 +107,23 @@
     "usage": [
       "توضع قطرة صغيرة على قطنة وتمرر على السن المؤلم.",
       "يخلط مع زيت آخر (مثل زيت الزيتون) لتدليك المفاصل أو فروة الرأس."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_ward",
     "name": "زيت الورد",
     "image": "https://i.ibb.co/8n4DCGsN/IMG-6023.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 16,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -97,13 +137,23 @@
     "usage": [
       "تدهن به البشرة ليلاً قبل النوم كمرطب.",
       "تضاف قطرات منه لماء الاستحمام لتعطير وتنعيم الجسم."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_louz_hlo",
     "name": "زيت اللوز الحلو",
     "image": "https://i.ibb.co/27562pVR/IMG-6024.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 17,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -117,7 +167,17 @@
     "usage": [
       "يستخدم كبديل طبيعي لمزيل المكياج.",
       "تدهن به الهالات السوداء ومحيط العين برفق قبل النوم."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_louz_mor",
@@ -137,13 +197,23 @@
     "usage": [
       "يستعمل للاستخدام الخارجي فقط.",
       "يدهن به الوجه أو المناطق الداكنة ليلاً ويغسل جيداً في الصباح."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_erq_sous",
     "name": "زيت عرق السوس",
     "image": "https://i.ibb.co/7tMQfqnT/IMG-6026.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 16,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -157,13 +227,23 @@
     "usage": [
       "تخلط قطرات منه مع كريم مرطب أو زيت آخر.",
       "يدهن به الجسم والمناطق المراد تفتيحها ويستحسن ليلاً."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_jojoba",
     "name": "زيت الجوجوبا",
     "image": "https://i.ibb.co/hJgcpJWv/IMG-6027.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -177,13 +257,23 @@
     "usage": [
       "يستعمل كسيروم طبيعي لأطراف الشعر بعد الاستحمام.",
       "مرطب يومي ممتاز لأصحاب البشرة الدهنية والمختلطة."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_termis",
     "name": "زيت الترمس",
     "image": "https://i.ibb.co/0yQtQZjQ/IMG-6028.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 18,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -196,13 +286,23 @@
     ],
     "usage": [
       "يدهن به الجلد بانتظام، خاصة بعد إزالة الشعر للحصول على أفضل النتائج."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_glycerin",
     "name": "زيت الغلسرين",
     "image": "https://i.ibb.co/5WjggPdw/IMG-6029.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 13,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -216,13 +316,23 @@
     "usage": [
       "يخلط مع القليل من ماء الورد أو عصير الليمون للحصول على مرطب ومفتح قوي.",
       "يدهن به الجسم والقدمين واليدين بعد الاستحمام مباشرة."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": 1793135532144,
     "name": "زيت الأركان",
     "image": "https://i.ibb.co/B2Yh14C7/1000023763.jpg",
-    "weeklyOrders": 14,
+    "weeklyOrders": 18,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -240,6 +350,16 @@
       "للشعر (كسيروم): ضعي قطرات قليلة على أطراف الشعر المبلل بعد الاستحمام لمنع الهيشان.",
       "للشعر (كحمام زيت): دلكي به الفروة والشعر بالكامل واتركيه ساعتين قبل الغسيل لترطيب عميق.",
       "للجسم والأظافر: تدهن به المناطق الجافة، وتدلك به الأظافر يومياً لتقويتها وإعطائها لمعاناً طبيعياً."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   }
 ]
