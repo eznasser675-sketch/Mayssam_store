@@ -3,7 +3,7 @@
     "id": "ward-beldi",
     "name": "الورد البلدي المجفف",
     "image": "https://i.ibb.co/3y6rKRtQ/1792611465547.jpg",
-    "weeklyOrders": 8,
+    "weeklyOrders": 15,
     "pricePerKg": 300,
     "sliderType": "standard",
     "benefits": [
@@ -14,7 +14,17 @@
     "usage": [
       "ينقع في ماء مغلي للاستنشاق أو لتحضير منقوع عطري للوجه.",
       "يطحن ناعماً ويخلط مع الغاسول أو الحناء للاستعمال في الحمام المغربي."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "dayl-al-hisan",
@@ -30,7 +40,18 @@
     "usage": [
       "تغلى ملعقة صغيرة في كأس ماء لمدة 5 دقائق ويصفى المنقوع ويشرب دافئاً باعتدال.",
       "يستخدم مغلي العشبة البارد كغسول موضعي لتقوية الشعر وفروة الرأس بعد الاستحمام."
-    ]
+    ],
+    "weeklyOrders": 22,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "khozama-mnaqya",
@@ -46,7 +67,18 @@
     "usage": [
       "تنقع ملعقة صغيرة في كأس ماء ساخن لمدة 10 دقائق وتشرب قبل النوم للاسترخاء.",
       "يستعمل مغلي الخزامى دافئاً كغسول خارجي أو للتبخير في الحمام."
-    ]
+    ],
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zaitra",
@@ -62,7 +94,18 @@
     "usage": [
       "تغلى وريقات قليلة مع الماء أو الحليب الدافئ وتشرب في الصباح أو المساء.",
       "تفرك باليد وتضاف مباشرة فوق الشاي المنسم أو الطواجن."
-    ]
+    ],
+    "weeklyOrders": 14,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zaatar-mnaqa",
@@ -78,7 +121,18 @@
     "usage": [
       "ينقع في ماء مغلي لمدة 7 إلى 10 دقائق ويحلى بملعقة عسل دافئ.",
       "يضاف كمنسم للأطعمة والمخبوزات وزيت الزيتون والشاي المغربي."
-    ]
+    ],
+    "weeklyOrders": 15,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "karkadeh",
@@ -94,7 +148,18 @@
     "usage": [
       "ينقع في ماء بارد لعدة ساعات للحصول على مشروب منعش لخفض الضغط، أو يغلى ويشرب دافئاً.",
       "يستخدم مغلي الكركديه المركز لعجن الحناء للحصول على لون أكاجو طبيعي للشعر."
-    ]
+    ],
+    "weeklyOrders": 19,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "babounj",
@@ -110,7 +175,18 @@
     "usage": [
       "تنقع ملعقة من أزهار البابونج في كأس ماء مغلي وتغطى لمدة 10 دقائق ثم تصفى وتشرب.",
       "يستخدم منقوعه المبرد ككمادات للعينين أو كغسول مهدئ للبشرة المتهيجة."
-    ]
+    ],
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "lwiza",
@@ -126,7 +202,18 @@
     "usage": [
       "تنقع وريقات اللويزة في ماء مغلي لمدة 5 إلى 7 دقائق وتغطى للاحتفاظ بزيوتها الطيارة.",
       "تشرب دافئة مساءً قبل النوم بنصف ساعة أو بعد وجبة العشاء الدسمة."
-    ]
+    ],
+    "weeklyOrders": 19,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "naanaa",
@@ -142,7 +229,18 @@
     "usage": [
       "يضاف مباشرة إلى الشاي المغربي أو ينقع منفرداً في ماء ساخن بعد الوجبات.",
       "يفرك ناعماً ويضاف إلى أطباق السلطات والمشويات لتنكيه مميز."
-    ]
+    ],
+    "weeklyOrders": 18,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "fleyou",
@@ -158,7 +256,18 @@
     "usage": [
       "يغلى مع الحليب وقطرة زيت زيتون ورشة إبزار ويشرب ساخناً قبل النوم لعلاج البرد.",
       "ينقع في الماء الساخن ويستنشق بخاره لتسريح الأنف والصدر."
-    ]
+    ],
+    "weeklyOrders": 18,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "sidr",
@@ -174,7 +283,18 @@
     "usage": [
       "يطحن ويخلط بالماء الدافئ حتى يشكل رغوة لطيفة ويغسل به الشعر كبديل للشامبو.",
       "يخلط مع الزيوت الطبيعية أو الحناء ويوضع كماسك مغذٍ للشعر لمدة ساعتين."
-    ]
+    ],
+    "weeklyOrders": 14,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "rayhan",
@@ -190,7 +310,18 @@
     "usage": [
       "يطحن ويضاف إلى خلطات الحناء والتكبيرة لتغذية وتعطير الشعر.",
       "يغلى ويستخدم كماء شطف نهائي للشعر بعد الاستحمام لمنحه لمعاناً ورائحة طيبة."
-    ]
+    ],
+    "weeklyOrders": 16,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 25,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "toffahat-adam",
@@ -206,7 +337,18 @@
     "usage": [
       "تطحن وتخلط مع زيت الزيتون الدافئ وتستعمل للتدليك الخارجي للمفاصل وأسفل الظهر.",
       "تستعمل بجرعات صغيرة جداً ومحددة بعد استشارة العطار المختص."
-    ]
+    ],
+    "weeklyOrders": 22,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "qors-alqamar",
@@ -222,7 +364,18 @@
     "usage": [
       "توضع قطعة صغيرة على الجمر للتبخير الشخصي أو تبخير المنزل.",
       "تطحن وتدمج بحذر في خلطات التدليك الدافئة والمساج التقليدي."
-    ]
+    ],
+    "weeklyOrders": 13,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "qist-hindi",
@@ -238,6 +391,17 @@
     "usage": [
       "تخلط ربع ملعقة صغيرة من مطحونه مع ملعقة عسل دافئ أو كأس ماء.",
       "يستنشق كبخور ناعم أو يخلط مع زيت الحبة السوداء كقطرات للأنف بعد التصفية."
-    ]
+    ],
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   }
 ]
