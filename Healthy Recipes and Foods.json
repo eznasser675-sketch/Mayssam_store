@@ -3,7 +3,7 @@
     "id": "amlou_louz",
     "name": "أملو باللوز الرومي",
     "image": "https://i.ibb.co/7J9M1hrQ/1000023572.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "variants": [
       {
         "id": "v1",
@@ -36,13 +36,23 @@
     "usage": [
       "يستهلك كوجبة إفطار مغذية مع الخبز أو البغرير.",
       "يوصى بخلطه جيداً في القرعة قبل الاستعمال لتجانس الزيت مع اللوز."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "amlou_kawkaw",
     "name": "أملو بالكاوكاو",
     "image": "https://i.ibb.co/PsZB2ZJ2/1000023575.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 18,
     "variants": [
       {
         "id": "v1",
@@ -75,13 +85,23 @@
     "usage": [
       "وجبة اقتصادية وصحية بامتياز للإفطار اليومي.",
       "يخلط جيداً قبل الاستعمال."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_argan_akl",
     "name": "زيت أركان للأكل",
     "image": "https://i.ibb.co/0p0gmzJF/1000023600.png",
-    "weeklyOrders": 15,
+    "weeklyOrders": 16,
     "isLiquid": true,
     "pricePerKg": 600,
     "sliderType": "half_full",
@@ -94,13 +114,23 @@
       "للتغماس المباشر مع الشاي المغربي.",
       "يضاف للسلطات أو الأطباق الخاصة لإعطاء نكهة فريدة.",
       "الأساس لتحضير أملو منزلي."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zit_zitoun",
     "name": "زيت الزيتون",
     "image": "https://i.ibb.co/jvh6mfGM/1000023599.png",
-    "weeklyOrders": 23,
+    "weeklyOrders": 18,
     "isLiquid": true,
     "pricePerKg": 60,
     "sliderType": "half_full",
@@ -112,13 +142,23 @@
     "usage": [
       "للاستهلاك المباشر في الفطور.",
       "تستعمل في الطبخ والسلطات لتعزيز المذاق الصحي."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "assel_limoun",
     "name": "عسل البرتقال",
     "image": "https://i.ibb.co/vvqbWTRp/1000023595.png",
-    "weeklyOrders": 16,
+    "weeklyOrders": 15,
     "pricePerKg": 100,
     "sliderType": "half_full",
     "benefits": [
@@ -129,7 +169,17 @@
     "usage": [
       "محلي طبيعي ممتاز للشاي والمشروبات الدافئة.",
       "يؤخذ منه ملعقة يومياً على الريق."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "assel_daghmous",
@@ -146,13 +196,23 @@
     "usage": [
       "للعلاج: ملعقة صغيرة مع الماء الدافئ على الريق.",
       "يستعمل كعلاج منزلي طبيعي في فصل الشتاء."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 9,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "moksarat_assel",
     "name": "مكسرات بالعسل",
     "image": "https://i.ibb.co/Xrm4Cf0W/1000023598.png",
-    "weeklyOrders": 10,
+    "weeklyOrders": 19,
     "pricePerKg": 230,
     "sliderType": "half_full",
     "benefits": [
@@ -163,13 +223,23 @@
     "usage": [
       "ملعقة أو ملعقتين يومياً في الصباح أو قبل التمرين.",
       "وجبة خفيفة ومغذية جداً للأطفال في فترة الامتحانات."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 9,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": 1793122266916,
     "name": "عسل الخروب",
     "image": "https://i.ibb.co/yc9vp8qj/1000023594.png",
-    "weeklyOrders": 11,
+    "weeklyOrders": 15,
     "pricePerKg": 240,
     "sliderType": "half_full",
     "benefits": [
@@ -179,13 +249,23 @@
     "usage": [
       "تؤخذ ملعقة صغيرة يومياً على الريق",
       "أو تخلط في كأس ماء دافئ صباحاً"
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": 1793121927880,
     "name": "عسل السدر",
     "image": "https://i.ibb.co/gZ0Y6Zng/1000023589.jpg",
-    "weeklyOrders": 6,
+    "weeklyOrders": 15,
     "pricePerKg": 200,
     "sliderType": "half_full",
     "benefits": [
@@ -195,6 +275,16 @@
     "usage": [
       "تؤخذ ملعقة صغيرة يومياً على الريق",
       "أو تُذاب في نصف كأس ماء دافئ"
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   }
 ]
