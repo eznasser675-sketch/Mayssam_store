@@ -1,1 +1,38 @@
+[
+  {
+    "id": "beauty_care",
+    "name": "الجمال والعناية الطبيعية",
+    "image": "https://i.ibb.co/Rp0LBfPV/1000024085.jpg"
+  },
+  {
+    "id": "spices",
+    "name": "التوابل للطبخ",
+    "image": "https://i.ibb.co/RTPQmr54/1000024086.jpg"
+  },
+  {
+    "id": "herbs",
+    "name": "الأعشاب الطبيعية",
+    "image": "https://i.ibb.co/7JzVxm8d/1000024087.jpg"
+  },
+  {
+    "id": "healthy_recipes",
+    "name": "الوصفات والأغذية الصحية",
+    "image": "https://i.ibb.co/kgCFGPLn/1000024093.png"
+  },
+  {
+    "id": "oils",
+    "name": "الزيوت الطبيعية",
+    "image": "https://i.ibb.co/JFvpLvKv/1000024092.png"
+  },
+  {
+    "id": "nuts",
+    "name": "المكسرات والفواكه الجافة",
+    "image": "https://i.ibb.co/d4qSysCc/1000024088.jpg"
+  },
+  {
+    "id": "seeds",
+    "name": "الزرارع والحبوب الطبيعية",
+    "image": "https://i.ibb.co/cKZYGJVB/1000024090.png"
+  }
+]
 
