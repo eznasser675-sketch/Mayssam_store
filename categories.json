@@ -1,6 +1,6 @@
 [
   {
-    "id": "beauty_care",
+    "id": "beauty",
     "name": "الجمال والعناية الطبيعية",
     "image": "https://i.ibb.co/Rp0LBfPV/1000024085.jpg"
   },
@@ -15,7 +15,7 @@
     "image": "https://i.ibb.co/7JzVxm8d/1000024087.jpg"
   },
   {
-    "id": "healthy_recipes",
+    "id": "healthy",
     "name": "الوصفات والأغذية الصحية",
     "image": "https://i.ibb.co/kgCFGPLn/1000024093.png"
   },
