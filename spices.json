@@ -3,132 +3,374 @@
     "id": "red-pepper",
     "name": "الفلفل الأحمر (التحميرة)",
     "pricePerKg": 50,
-    "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg"
+    "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg",
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "kharkoum",
     "name": "الخرقوم البلدي (الكركم)",
     "pricePerKg": 70,
-    "image": "https://i.ibb.co/wrJbKsWw/file-0000000052ec821083ed812eba7aeaf2.png"
+    "image": "https://i.ibb.co/wrJbKsWw/file-0000000052ec821083ed812eba7aeaf2.png",
+    "weeklyOrders": 20,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zanjabil",
     "name": "الزنجبيل (سكنجبير)",
     "pricePerKg": 90,
-    "image": "https://i.ibb.co/xKPD2L3H/1792539620045.jpg"
+    "image": "https://i.ibb.co/xKPD2L3H/1792539620045.jpg",
+    "weeklyOrders": 23,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "black-pepper",
     "name": "الفلفل الأسود (الإبزار الأكحل)",
     "pricePerKg": 130,
-    "image": "https://i.ibb.co/9HkKv5rb/1792539691968.jpg"
+    "image": "https://i.ibb.co/9HkKv5rb/1792539691968.jpg",
+    "weeklyOrders": 16,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "white-pepper",
     "name": "الفلفل الأبيض (الإبزار الأبيض)",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/zTVM1x34/1792539758667.jpg"
+    "image": "https://i.ibb.co/zTVM1x34/1792539758667.jpg",
+    "weeklyOrders": 16,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "cumin-indian",
     "name": "الكمون الهندي",
     "pricePerKg": 120,
-    "image": "https://i.ibb.co/JjbKjNqc/1792539891370.jpg"
+    "image": "https://i.ibb.co/JjbKjNqc/1792539891370.jpg",
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "cumin-beldi",
     "name": "الكمون البلدي",
     "pricePerKg": 300,
-    "image": "https://i.ibb.co/JRtb3Zbb/1792539998956.jpg"
+    "image": "https://i.ibb.co/JRtb3Zbb/1792539998956.jpg",
+    "weeklyOrders": 15,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 25,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "cumin-egypt",
     "name": "الكمون المصري",
     "pricePerKg": 180,
-    "image": "https://i.ibb.co/HD9mXrFh/1792540117974.jpg"
+    "image": "https://i.ibb.co/HD9mXrFh/1792540117974.jpg",
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "cinnamon-beldi",
     "name": "القرفة البلدية",
     "pricePerKg": 90,
-    "image": "https://i.ibb.co/bRJxZ7Sm/1792540196684.jpg"
+    "image": "https://i.ibb.co/bRJxZ7Sm/1792540196684.jpg",
+    "weeklyOrders": 19,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "cinnamon-china",
     "name": "القرفة الصينية",
     "pricePerKg": 150,
-    "image": "https://i.ibb.co/4gtvYmGx/1792540316998.jpg"
+    "image": "https://i.ibb.co/4gtvYmGx/1792540316998.jpg",
+    "weeklyOrders": 14,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "cinnamon-ceylon",
     "name": "القرفة السيلانية",
     "pricePerKg": 700,
-    "image": "https://i.ibb.co/TqTvJN9V/1792540408673.jpg"
+    "image": "https://i.ibb.co/TqTvJN9V/1792540408673.jpg",
+    "weeklyOrders": 20,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "cardamom",
     "name": "الهيل (قعقلة)",
     "pricePerKg": 700,
-    "image": "https://i.ibb.co/hFj7kt7S/1792540504079.jpg"
+    "image": "https://i.ibb.co/hFj7kt7S/1792540504079.jpg",
+    "weeklyOrders": 16,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "bessibissa",
     "name": "بسيبيسا",
     "pricePerKg": 700,
-    "image": "https://i.ibb.co/k6VgKfq7/1792540594606.jpg"
+    "image": "https://i.ibb.co/k6VgKfq7/1792540594606.jpg",
+    "weeklyOrders": 21,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "badyana",
     "name": "باضيانة (اليانسون النجمي)",
     "pricePerKg": 300,
-    "image": "https://i.ibb.co/Vp5P9Gq5/1792540855285.jpg"
+    "image": "https://i.ibb.co/Vp5P9Gq5/1792540855285.jpg",
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "fish-spices",
     "name": "خلطة توابل السمك (الحوت)",
     "pricePerKg": 150,
-    "image": "https://i.ibb.co/vxvmwZFR/1792573741987.jpg"
+    "image": "https://i.ibb.co/vxvmwZFR/1792573741987.jpg",
+    "weeklyOrders": 20,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "bastila-fish",
     "name": "خلطة توابل بسطيلة الحوت",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/HMzsjT5/1792573892504.jpg"
+    "image": "https://i.ibb.co/HMzsjT5/1792573892504.jpg",
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "bastila-chicken",
     "name": "خلطة توابل بسطيلة الدجاج",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg"
+    "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg",
+    "weeklyOrders": 23,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "meat-spices",
     "name": "خلطة توابل اللحم (المروزية)",
     "pricePerKg": 250,
-    "image": "https://i.ibb.co/0VmDbzV9/1792574068604.jpg"
+    "image": "https://i.ibb.co/0VmDbzV9/1792574068604.jpg",
+    "weeklyOrders": 15,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "chicken-spices",
     "name": "خلطة توابل الدجاج",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg"
+    "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg",
+    "weeklyOrders": 21,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "ras-el-hanout",
     "name": "خلطة رأس الحانوت (المساخن)",
     "pricePerKg": 300,
-    "image": "https://i.ibb.co/kFrxnHx/Screenshot-20261021-091859.jpg"
+    "image": "https://i.ibb.co/kFrxnHx/Screenshot-20261021-091859.jpg",
+    "weeklyOrders": 19,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "garlic-flaked",
     "name": "الثوم مهرمش (مجفف)",
     "pricePerKg": 150,
-    "image": "https://i.ibb.co/DPGVF1TM/IMG-20261021-WA0000.jpg"
+    "image": "https://i.ibb.co/DPGVF1TM/IMG-20261021-WA0000.jpg",
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "onion-flaked",
     "name": "البصل مهرمش (مجفف)",
     "pricePerKg": 150,
-    "image": "https://i.ibb.co/JR18ckqD/IMG-20261021-WA0001-1.jpg"
+    "image": "https://i.ibb.co/JR18ckqD/IMG-20261021-WA0001-1.jpg",
+    "weeklyOrders": 21,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   }
 ]
