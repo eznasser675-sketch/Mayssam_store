@@ -14,7 +14,18 @@
       "أساسي في تحضير سلو (السفوف) والحلويات المغربية.",
       "يضاف إلى المخبوزات والگرص لرفع قيمتها الغذائية.",
       "يمكن تناوله مع التمر كمقوي طبيعي للأطفال."
-    ]
+    ],
+    "weeklyOrders": 14,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "jinjelan_romi",
@@ -30,7 +41,18 @@
     "usage": [
       "يستعمل بشكل أساسي لتزيين الحلويات، الصابلي، والمخبوزات.",
       "مثالي للطبخ وتزيين الأطباق التقليدية كالدجاج المحمر واللحم بالبرقوق."
-    ]
+    ],
+    "weeklyOrders": 16,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zari3at_lktan",
@@ -46,7 +68,18 @@
     "usage": [
       "تطحن وتضاف فوراً للسلطات أو الياغورت (لا يجب طحنها وتخزينها).",
       "تغلى في الماء للحصول على جيل طبيعي ماسك للشعر."
-    ]
+    ],
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "sanouj",
@@ -62,7 +95,18 @@
     "usage": [
       "يضاف لعجين الخبز لتعزيز قيمته الغذائية وإعطائه نكهة بلدية.",
       "يخلط القليل منه مع العسل كعلاج طبيعي للزكام وتقوية المناعة."
-    ]
+    ],
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "hab_rchad",
@@ -78,7 +122,18 @@
     "usage": [
       "يضاف للحليب الساخن (الحسوة) ويشرب خصوصاً في أيام البرد.",
       "يخلط مع التمر العجوة مفيد جدا للصحة والطاقة."
-    ]
+    ],
+    "weeklyOrders": 16,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "nafe3",
@@ -95,7 +150,17 @@
     "usage": [
       "مكون أساسي لا غنى عنه في سلو (السفوف)، القراشل، والفقاص.",
       "يغلى ويشرب كمشروب ساخن (تيزان) مهدئ للبطن للأطفال والكبار."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "habat_hlawa",
@@ -111,7 +176,18 @@
     "usage": [
       "ترافق النافع دائماً في تحضير الشباكية والحلويات المغربية الأصيلة.",
       "تشرب كشاي مهدئ للأعصاب ومنظم للهضم."
-    ]
+    ],
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "karwiya",
@@ -127,7 +203,18 @@
     "usage": [
       "تغلى كشاي خفيف لتهدئة مغص الأطفال والرضع بأمان.",
       "تستعمل كمنكه صحي في بعض الشوربات التقليدية."
-    ]
+    ],
+    "weeklyOrders": 20,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zari3at_khizou",
@@ -143,13 +230,24 @@
     "usage": [
       "تطحن وتخلط مع العسل الطبيعي والمكسرات كعلاج مقوي يومي.",
       "ينصح بها في الوصفات الطبيعية للزوجين."
-    ]
+    ],
+    "weeklyOrders": 22,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zari3at_broccoli",
     "name": "زريعة البروكلي",
     "image": "https://i.ibb.co/tM0KPdYn/1000023682.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "pricePerKg": 180,
     "sliderType": "standard",
     "benefits": [
@@ -160,7 +258,17 @@
     "usage": [
       "تستنبت (Germination) في المنزل وتضاف براعمها الطازجة للسلطات.",
       "تطحن وتضاف للعصائر الطبيعية لزيادة قيمتها الغذائية بشكل مضاعف."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zari3at_fjel",
@@ -176,13 +284,24 @@
     "usage": [
       "تطحن وتخلط مع العسل للاستفادة العلاجية.",
       "يمكن استنباتها كبذور البروكلي وتناول براعمها مع السلطة."
-    ]
+    ],
+    "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zari3at_m3adnous",
     "name": "زريعة المعدنوس",
     "image": "https://i.ibb.co/ZRJxFmM1/IMG-6018.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 20,
     "pricePerKg": 100,
     "sliderType": "standard",
     "benefits": [
@@ -193,13 +312,23 @@
     "usage": [
       "تغلى كشاي وتشرب كديتوكس طبيعي لتنظيف الكلى.",
       "تستعمل في الخلطات العلاجية لمشاكل البروستات والمسالك."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 29,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zari3at_lfessa",
     "name": "زريعة الفصة",
     "image": "https://i.ibb.co/sdctC7rr/IMG-6016.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 22,
     "pricePerKg": 100,
     "sliderType": "standard",
     "benefits": [
@@ -210,13 +339,23 @@
     "usage": [
       "تحمص قليلاً وتطحن وتخلط مع الياغورت أو العسل كوجبة مقوية ومسمنة.",
       "يمكن استنباتها للحصول على براعم الفصة الغنية جداً بالفيتامينات."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 29,
+      "lastUpdatedDate": "2026-10-29"
+    }
   },
   {
     "id": "zari3at_krafes",
     "name": "زريعة الكرافس",
     "image": "https://i.ibb.co/6c9MhmNr/IMG-6017.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 16,
     "pricePerKg": 100,
     "sliderType": "standard",
     "benefits": [
@@ -227,6 +366,16 @@
     "usage": [
       "تغلى وتشرب كمنقوع لتهدئة آلام المفاصل والنقرس.",
       "تطحن وتستعمل كبهار صحي ذو نكهة قوية في الشوربات كالحريرة."
-    ]
+    ],
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-10-29"
+    }
   }
 ]
