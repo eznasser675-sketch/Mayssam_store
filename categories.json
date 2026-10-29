@@ -2,7 +2,11 @@
   {
     "id": "beauty",
     "name": "الجمال والعناية الطبيعية",
-    "image": "https://i.ibb.co/Rp0LBfPV/1000024085.jpg"
+    "icon": "🛍️",
+    "image": "https://i.ibb.co/Rp0LBfPV/1000024085.jpg",
+    "file": "beauty.json",
+    "url": "https://raw.githubusercontent.com/eznasser675-sketch/Mayssam_store/refs/heads/main/beauty.json",
+    "active": false
   },
   {
     "id": "spices",
@@ -35,4 +39,3 @@
     "image": "https://i.ibb.co/cKZYGJVB/1000024090.png"
   }
 ]
-
