@@ -142,8 +142,18 @@
   {
     "id": "cajou",
     "name": "الكاجو",
-    "image": "https://i.ibb.co/m5NvjxVB/1000023500.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400913953.webp",
     "weeklyOrders": 23,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 29,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "pricePerKg": 170,
     "sliderType": "half_full",
     "benefits": [
@@ -155,17 +165,7 @@
       "فاكهة راقية تقدم للضيافة والمناسبات.",
       "يؤكل مباشرة كوجبة خفيفة وممتعة.",
       "يضاف إلى بعض الأطباق الآسيوية والصحية."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 12,
-      "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "pistache",
