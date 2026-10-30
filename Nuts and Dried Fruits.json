@@ -198,8 +198,18 @@
   {
     "id": "homs_turki",
     "name": "حمص تركيا",
-    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_homs_turki_75414.webp",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400928689.webp",
     "weeklyOrders": 23,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "pricePerKg": 65,
     "sliderType": "half_full",
     "benefits": [
@@ -211,17 +221,7 @@
       "وجبة خفيفة (سناك) ممتعة مع الشاي.",
       "ممتاز للأطفال كبديل للحلويات.",
       "يقدم في التشكيلات المغربية (الفاكية)."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 13,
-      "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "homs_beldi",
