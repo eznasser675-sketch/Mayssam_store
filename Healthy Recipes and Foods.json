@@ -51,7 +51,7 @@
   {
     "id": "amlou_kawkaw",
     "name": "أملو بالكاوكاو",
-    "image": "https://i.ibb.co/PsZB2ZJ2/1000023575.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_amlou_kawkaw_50102.webp",
     "weeklyOrders": 21,
     "variants": [
       {
@@ -100,7 +100,7 @@
   {
     "id": "zit_argan_akl",
     "name": "زيت أركان للأكل",
-    "image": "https://i.ibb.co/0p0gmzJF/1000023600.png",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_zit_argan_akl_55644.webp",
     "weeklyOrders": 18,
     "isLiquid": true,
     "pricePerKg": 600,
@@ -129,7 +129,7 @@
   {
     "id": "zit_zitoun",
     "name": "زيت الزيتون",
-    "image": "https://i.ibb.co/jvh6mfGM/1000023599.png",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_zit_zitoun_60219.webp",
     "weeklyOrders": 19,
     "isLiquid": true,
     "pricePerKg": 60,
@@ -157,7 +157,7 @@
   {
     "id": "assel_limoun",
     "name": "عسل البرتقال",
-    "image": "https://i.ibb.co/vvqbWTRp/1000023595.png",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_assel_limoun_65233.webp",
     "weeklyOrders": 17,
     "pricePerKg": 100,
     "sliderType": "half_full",
@@ -211,7 +211,7 @@
   {
     "id": "moksarat_assel",
     "name": "مكسرات بالعسل",
-    "image": "https://i.ibb.co/Xrm4Cf0W/1000023598.png",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_moksarat_assel_19072.webp",
     "weeklyOrders": 21,
     "pricePerKg": 230,
     "sliderType": "half_full",
@@ -238,7 +238,7 @@
   {
     "id": 1793122266916,
     "name": "عسل الخروب",
-    "image": "https://i.ibb.co/yc9vp8qj/1000023594.png",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793122266916_24380.webp",
     "weeklyOrders": 17,
     "pricePerKg": 240,
     "sliderType": "half_full",
@@ -264,7 +264,7 @@
   {
     "id": 1793121927880,
     "name": "عسل السدر",
-    "image": "https://i.ibb.co/gZ0Y6Zng/1000023589.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793121927880_89578.webp",
     "weeklyOrders": 17,
     "pricePerKg": 200,
     "sliderType": "half_full",
