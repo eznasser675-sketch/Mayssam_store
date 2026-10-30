@@ -114,8 +114,18 @@
   {
     "id": "garga3_noss",
     "name": "الكركاع النص",
-    "image": "https://i.ibb.co/1JjQrkSj/1000023513.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400867555.webp",
     "weeklyOrders": 22,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "pricePerKg": 100,
     "sliderType": "half_full",
     "benefits": [
@@ -127,17 +137,7 @@
       "عملي جداً للطبخ وتحضير الكيك والحلويات.",
       "ممتاز لإضافته إلى السلطات الصحية.",
       "يخلط مع العسل كوجبة مقوية."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 5,
-      "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "cajou",
