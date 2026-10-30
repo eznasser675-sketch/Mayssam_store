@@ -158,8 +158,18 @@
   {
     "id": "muqashir-al-akar-al-fassi",
     "name": "مقشر العكر الفاسي للجسم",
-    "image": "https://i.ibb.co/KcpHL43x/1792443247948.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_1793400523976.webp",
     "weeklyOrders": 20,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -174,17 +184,7 @@
       "التطبيق والتدليك: تُوضع كمية مناسبة من المقشر على بشرة الجسم، ويُدلك برفق وبحركات دائرية خفيفة لمدة 3 إلى 5 دقائق مع التركيز على المناطق الجافة والخشنة كالمرفقين والركبتين.",
       "الشطف: يُشطف الجسم جيداً بالماء الفاتر حتى إزالة الحبيبات بالكامل مع ترك الزيوت المرطبة تحمي البشرة.",
       "اللمسة الأخيرة: يُجفف الجسم بمنشفة قطنية ناعمة بطريقة التربيت الخفيف للاحتفاظ بأثر التوريد والترطيب. (يُستعمل من مرة إلى مرتين أسبوعياً)."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 8,
-      "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "mokhmariyat-al-arous",
