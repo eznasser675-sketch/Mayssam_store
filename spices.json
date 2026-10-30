@@ -36,8 +36,7 @@
   {
     "id": "zanjabil",
     "name": "الزنجبيل (سكنجبير)",
-    "pricePerKg": 90,
-    "image": "https://i.ibb.co/xKPD2L3H/1792539620045.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_1793400571833.webp",
     "weeklyOrders": 25,
     "ordersConfig": {
       "startMin": 5,
@@ -48,7 +47,9 @@
       "weekStartVal": 15,
       "weekTargetEndVal": 30,
       "lastUpdatedDate": "2026-10-30"
-    }
+    },
+    "pricePerKg": 90,
+    "sliderType": "standard"
   },
   {
     "id": "black-pepper",
