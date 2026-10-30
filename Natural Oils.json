@@ -2,7 +2,7 @@
   {
     "id": "zit_coco",
     "name": "زيت جوز الهند",
-    "image": "https://i.ibb.co/tTHqJtbx/IMG-6030.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_zit_coco_51680.webp",
     "weeklyOrders": 20,
     "isLiquid": true,
     "fixedOnly": true,
@@ -152,7 +152,7 @@
   {
     "id": "zit_louz_hlo",
     "name": "زيت اللوز الحلو",
-    "image": "https://i.ibb.co/27562pVR/IMG-6024.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_zit_louz_hlo_30767.webp",
     "weeklyOrders": 20,
     "isLiquid": true,
     "fixedOnly": true,
@@ -331,7 +331,7 @@
   {
     "id": 1793135532144,
     "name": "زيت الأركان",
-    "image": "https://i.ibb.co/B2Yh14C7/1000023763.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_1793135532144_45175.webp",
     "weeklyOrders": 19,
     "isLiquid": true,
     "fixedOnly": true,
