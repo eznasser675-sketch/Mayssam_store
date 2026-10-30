@@ -254,8 +254,18 @@
   {
     "id": "kawkaw_ghlid",
     "name": "كاوكاو غليض محمر",
-    "image": "https://i.ibb.co/Mk7rKrnz/1000023553.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400958840.webp",
     "weeklyOrders": 18,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "pricePerKg": 50,
     "sliderType": "half_full",
     "benefits": [
@@ -267,17 +277,7 @@
       "سناك يومي اقتصادي ومغذي.",
       "يستعمل في تحضير حلاوة الكاوكاو أو زبدة الفول السوداني.",
       "يضاف للحلويات التقليدية كغريبة كاوكاو."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 6,
-      "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "kawkaw_r9i9",
