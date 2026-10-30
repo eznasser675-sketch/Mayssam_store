@@ -20,7 +20,7 @@
     "id": "kharkoum",
     "name": "الخرقوم البلدي (الكركم)",
     "pricePerKg": 70,
-    "image": "https://i.ibb.co/wrJbKsWw/file-0000000052ec821083ed812eba7aeaf2.png",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_kharkoum_95810.webp",
     "weeklyOrders": 24,
     "ordersConfig": {
       "startMin": 5,
@@ -105,7 +105,7 @@
     "id": "cumin-beldi",
     "name": "الكمون البلدي",
     "pricePerKg": 300,
-    "image": "https://i.ibb.co/JRtb3Zbb/1792539998956.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cumin-beldi_09680.webp",
     "weeklyOrders": 18,
     "ordersConfig": {
       "startMin": 5,
@@ -156,7 +156,7 @@
     "id": "cinnamon-china",
     "name": "القرفة الصينية",
     "pricePerKg": 150,
-    "image": "https://i.ibb.co/4gtvYmGx/1792540316998.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cinnamon-china_63830.webp",
     "weeklyOrders": 16,
     "ordersConfig": {
       "startMin": 5,
@@ -241,7 +241,7 @@
     "id": "fish-spices",
     "name": "خلطة توابل السمك (الحوت)",
     "pricePerKg": 150,
-    "image": "https://i.ibb.co/vxvmwZFR/1792573741987.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_fish-spices_99789.webp",
     "weeklyOrders": 23,
     "ordersConfig": {
       "startMin": 5,
