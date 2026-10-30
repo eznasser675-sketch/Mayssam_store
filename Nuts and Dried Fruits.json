@@ -3,7 +3,7 @@
     "id": "louz_romi_r9i9",
     "name": "اللوز الرومي رقيق",
     "image": "https://i.ibb.co/60jyLzfm/1000023503.jpg",
-    "weeklyOrders": 20,
+    "weeklyOrders": 23,
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -24,14 +24,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 9,
       "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "louz_romi_ghlid",
     "name": "اللوز الرومي غليض",
     "image": "https://i.ibb.co/RptSJXH6/1000023504.jpg",
-    "weeklyOrders": 21,
+    "weeklyOrders": 23,
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -52,14 +52,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 13,
       "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "louz_beldi",
     "name": "اللوز البلدي",
     "image": "https://i.ibb.co/RkLZxxmf/1000023492.jpg",
-    "weeklyOrders": 14,
+    "weeklyOrders": 17,
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -80,14 +80,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 6,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "garga3_kbala",
     "name": "الكركاع كبالة",
     "image": "https://i.ibb.co/ZR0SBmyF/1000023749.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -108,14 +108,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 5,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "garga3_noss",
     "name": "الكركاع النص",
     "image": "https://i.ibb.co/1JjQrkSj/1000023513.jpg",
-    "weeklyOrders": 17,
+    "weeklyOrders": 22,
     "pricePerKg": 100,
     "sliderType": "half_full",
     "benefits": [
@@ -136,14 +136,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 5,
       "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "cajou",
     "name": "الكاجو",
     "image": "https://i.ibb.co/m5NvjxVB/1000023500.jpg",
-    "weeklyOrders": 20,
+    "weeklyOrders": 23,
     "pricePerKg": 170,
     "sliderType": "half_full",
     "benefits": [
@@ -164,14 +164,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 12,
       "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "pistache",
     "name": "بيسطاش",
     "image": "https://i.ibb.co/W4Swxb5z/1000023545.jpg",
-    "weeklyOrders": 14,
+    "weeklyOrders": 16,
     "pricePerKg": 210,
     "sliderType": "half_full",
     "benefits": [
@@ -192,14 +192,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 5,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "homs_turki",
     "name": "حمص تركيا",
     "image": "https://i.ibb.co/Zzcxmg8X/1000023546.jpg",
-    "weeklyOrders": 21,
+    "weeklyOrders": 23,
     "pricePerKg": 65,
     "sliderType": "half_full",
     "benefits": [
@@ -220,14 +220,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 13,
       "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "homs_beldi",
     "name": "حمص بلدي",
     "image": "https://i.ibb.co/Rk3fTZnK/1000023552.jpg",
-    "weeklyOrders": 16,
+    "weeklyOrders": 19,
     "pricePerKg": 35,
     "sliderType": "half_full",
     "benefits": [
@@ -248,14 +248,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 5,
       "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "kawkaw_ghlid",
     "name": "كاوكاو غليض محمر",
     "image": "https://i.ibb.co/Mk7rKrnz/1000023553.jpg",
-    "weeklyOrders": 14,
+    "weeklyOrders": 18,
     "pricePerKg": 50,
     "sliderType": "half_full",
     "benefits": [
@@ -276,14 +276,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 6,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "kawkaw_r9i9",
     "name": "كاوكاو رقيق محمر",
     "image": "https://i.ibb.co/3YhfM4gv/1000023561.jpg",
-    "weeklyOrders": 21,
+    "weeklyOrders": 24,
     "pricePerKg": 60,
     "sliderType": "half_full",
     "benefits": [
@@ -304,7 +304,7 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 14,
       "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   }
 ]
