@@ -32,7 +32,7 @@
   {
     "id": "zit_saad",
     "name": "زيت السعد",
-    "image": "https://i.ibb.co/W4r6mX3M/IMG-6020.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_zit_saad_93590.webp",
     "weeklyOrders": 17,
     "isLiquid": true,
     "fixedOnly": true,
@@ -242,7 +242,7 @@
   {
     "id": "zit_jojoba",
     "name": "زيت الجوجوبا",
-    "image": "https://i.ibb.co/hJgcpJWv/IMG-6027.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_zit_jojoba_42741.webp",
     "weeklyOrders": 23,
     "isLiquid": true,
     "fixedOnly": true,
@@ -272,7 +272,7 @@
   {
     "id": "zit_termis",
     "name": "زيت الترمس",
-    "image": "https://i.ibb.co/0yQtQZjQ/IMG-6028.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_zit_termis_59651.webp",
     "weeklyOrders": 20,
     "isLiquid": true,
     "fixedOnly": true,
@@ -301,7 +301,7 @@
   {
     "id": "zit_glycerin",
     "name": "زيت الغلسرين",
-    "image": "https://i.ibb.co/5WjggPdw/IMG-6029.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_zit_glycerin_64976.webp",
     "weeklyOrders": 16,
     "isLiquid": true,
     "fixedOnly": true,
