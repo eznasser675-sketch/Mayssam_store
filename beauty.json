@@ -19,7 +19,7 @@
       "المدة: لفي الشعر بغطاء بلاستيكي، واتركيه لمدة ساعتين (أو من ساعتين إلى 4 ساعات في حال خلطه مع الحناء).",
       "الشطف: يُشطف الشعر جيداً بالماء الفاتر حتى يزول المسحوق بالكامل، ثم يُغسل ببلسم أو شامبو خفيف. (يُستعمل مرة واحدة أسبوعياً للحفاظ على حيوية ولون ولمعان الشعر)."
     ],
-    "weeklyOrders": 18,
+    "weeklyOrders": 20,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -28,14 +28,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 15,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "al-mshat-al-akhdar",
     "name": "المشاط الأخضر",
     "image": "https://i.ibb.co/FLJ0p93z/1792498114888.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 18,
     "price": 120,
     "weight": "200 غرام",
     "benefits": [
@@ -59,14 +59,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 10,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "mask-al-nila-al-zarqaa",
     "name": "ماسك النيلة الزرقاء للوجه",
     "image": "https://i.ibb.co/5zsPdJ1/1792438706376.jpg",
-    "weeklyOrders": 18,
+    "weeklyOrders": 19,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -90,14 +90,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 13,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "mask-al-akar-al-fassi",
     "name": "ماسك العكر الفاسي للوجه",
     "image": "https://i.ibb.co/C3rCjS2p/1792442657234.jpg",
-    "weeklyOrders": 19,
+    "weeklyOrders": 22,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -121,14 +121,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 14,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "muqashir-al-nila-al-zarqaa",
     "name": "مقشر النيلة الزرقاء للجسم",
     "image": "https://i.ibb.co/mC3MtF2G/1792443057708.jpg",
-    "weeklyOrders": 19,
+    "weeklyOrders": 20,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -152,14 +152,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 15,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "muqashir-al-akar-al-fassi",
     "name": "مقشر العكر الفاسي للجسم",
     "image": "https://i.ibb.co/KcpHL43x/1792443247948.jpg",
-    "weeklyOrders": 17,
+    "weeklyOrders": 20,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -183,14 +183,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 8,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "mokhmariyat-al-arous",
     "name": "مخمرية العروس",
     "image": "https://i.ibb.co/DfHnGqqJ/1792443401150.jpg",
-    "weeklyOrders": 17,
+    "weeklyOrders": 18,
     "price": 59,
     "weight": "50 غرام",
     "benefits": [
@@ -214,14 +214,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 12,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "al-nila-al-zarqaa-al-asliya",
     "name": "النيلة الزرقاء الأصلية",
     "image": "https://i.ibb.co/MDDgbs6P/1792445534242.jpg",
-    "weeklyOrders": 17,
+    "weeklyOrders": 18,
     "price": 90,
     "weight": "100 غرام",
     "benefits": [
@@ -244,14 +244,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 14,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "al-akar-al-fassi-al-asli",
     "name": "العكر الفاسي الأصلي",
     "image": "https://i.ibb.co/4gjnKs4g/1792498424680.jpg.jpg",
-    "weeklyOrders": 20,
+    "weeklyOrders": 23,
     "price": 90,
     "weight": "100 غرام",
     "benefits": [
@@ -275,14 +275,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 11,
       "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "natural-deodorant",
     "name": "مزيل العرق الطبيعي",
     "image": "https://i.ibb.co/wNbHghsm/1792495653398.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 18,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -305,7 +305,7 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 7,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   }
 ]
