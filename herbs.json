@@ -2,8 +2,18 @@
   {
     "id": "ward-beldi",
     "name": "الورد البلدي المجفف",
-    "image": "https://i.ibb.co/3y6rKRtQ/1792611465547.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793400604904.webp",
     "weeklyOrders": 18,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "pricePerKg": 300,
     "sliderType": "standard",
     "benefits": [
@@ -14,17 +24,7 @@
     "usage": [
       "ينقع في ماء مغلي للاستنشاق أو لتحضير منقوع عطري للوجه.",
       "يطحن ناعماً ويخلط مع الغاسول أو الحناء للاستعمال في الحمام المغربي."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 6,
-      "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "dayl-al-hisan",
