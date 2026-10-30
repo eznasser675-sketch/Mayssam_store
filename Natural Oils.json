@@ -3,7 +3,7 @@
     "id": "zit_coco",
     "name": "زيت جوز الهند",
     "image": "https://i.ibb.co/tTHqJtbx/IMG-6030.jpg",
-    "weeklyOrders": 19,
+    "weeklyOrders": 20,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -26,14 +26,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 14,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_saad",
     "name": "زيت السعد",
     "image": "https://i.ibb.co/W4r6mX3M/IMG-6020.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 17,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -56,14 +56,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 9,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_sanouj",
     "name": "زيت السانوج (الحبة السوداء)",
     "image": "https://i.ibb.co/bgJ8zzjb/IMG-6021.jpg",
-    "weeklyOrders": 22,
+    "weeklyOrders": 25,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -86,14 +86,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 15,
       "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_qronfel",
     "name": "زيت القرنفل",
     "image": "https://i.ibb.co/XkMxK6b6/IMG-6022.jpg",
-    "weeklyOrders": 20,
+    "weeklyOrders": 21,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -116,14 +116,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 15,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_ward",
     "name": "زيت الورد",
     "image": "https://i.ibb.co/8n4DCGsN/IMG-6023.jpg",
-    "weeklyOrders": 16,
+    "weeklyOrders": 18,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -146,14 +146,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 10,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_louz_hlo",
     "name": "زيت اللوز الحلو",
     "image": "https://i.ibb.co/27562pVR/IMG-6024.jpg",
-    "weeklyOrders": 17,
+    "weeklyOrders": 20,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -176,14 +176,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 10,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_louz_mor",
     "name": "زيت اللوز المر",
     "image": "https://i.ibb.co/jS8WwT6/IMG-6025.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 18,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -206,14 +206,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 5,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_erq_sous",
     "name": "زيت عرق السوس",
     "image": "https://i.ibb.co/7tMQfqnT/IMG-6026.jpg",
-    "weeklyOrders": 16,
+    "weeklyOrders": 19,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -236,14 +236,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 8,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_jojoba",
     "name": "زيت الجوجوبا",
     "image": "https://i.ibb.co/hJgcpJWv/IMG-6027.jpg",
-    "weeklyOrders": 19,
+    "weeklyOrders": 23,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -266,14 +266,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 8,
       "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_termis",
     "name": "زيت الترمس",
     "image": "https://i.ibb.co/0yQtQZjQ/IMG-6028.jpg",
-    "weeklyOrders": 18,
+    "weeklyOrders": 20,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -295,14 +295,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 13,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_glycerin",
     "name": "زيت الغلسرين",
     "image": "https://i.ibb.co/5WjggPdw/IMG-6029.jpg",
-    "weeklyOrders": 13,
+    "weeklyOrders": 16,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -325,14 +325,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 5,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": 1793135532144,
     "name": "زيت الأركان",
     "image": "https://i.ibb.co/B2Yh14C7/1000023763.jpg",
-    "weeklyOrders": 18,
+    "weeklyOrders": 19,
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -359,7 +359,7 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 14,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   }
 ]
