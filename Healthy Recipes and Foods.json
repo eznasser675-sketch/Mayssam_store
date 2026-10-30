@@ -3,7 +3,7 @@
     "id": "amlou_louz",
     "name": "أملو باللوز الرومي",
     "image": "https://i.ibb.co/7J9M1hrQ/1000023572.jpg",
-    "weeklyOrders": 19,
+    "weeklyOrders": 22,
     "variants": [
       {
         "id": "v1",
@@ -45,14 +45,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 11,
       "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "amlou_kawkaw",
     "name": "أملو بالكاوكاو",
     "image": "https://i.ibb.co/PsZB2ZJ2/1000023575.jpg",
-    "weeklyOrders": 18,
+    "weeklyOrders": 21,
     "variants": [
       {
         "id": "v1",
@@ -94,14 +94,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 10,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_argan_akl",
     "name": "زيت أركان للأكل",
     "image": "https://i.ibb.co/0p0gmzJF/1000023600.png",
-    "weeklyOrders": 16,
+    "weeklyOrders": 18,
     "isLiquid": true,
     "pricePerKg": 600,
     "sliderType": "half_full",
@@ -123,14 +123,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 13,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "zit_zitoun",
     "name": "زيت الزيتون",
     "image": "https://i.ibb.co/jvh6mfGM/1000023599.png",
-    "weeklyOrders": 18,
+    "weeklyOrders": 19,
     "isLiquid": true,
     "pricePerKg": 60,
     "sliderType": "half_full",
@@ -151,14 +151,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 15,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "assel_limoun",
     "name": "عسل البرتقال",
     "image": "https://i.ibb.co/vvqbWTRp/1000023595.png",
-    "weeklyOrders": 15,
+    "weeklyOrders": 17,
     "pricePerKg": 100,
     "sliderType": "half_full",
     "benefits": [
@@ -178,14 +178,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 10,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "assel_daghmous",
     "name": "عسل الدغموس",
     "image": "https://i.ibb.co/YTb2HgLT/1000023587.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 18,
     "pricePerKg": 250,
     "sliderType": "half_full",
     "benefits": [
@@ -205,14 +205,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 9,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": "moksarat_assel",
     "name": "مكسرات بالعسل",
     "image": "https://i.ibb.co/Xrm4Cf0W/1000023598.png",
-    "weeklyOrders": 19,
+    "weeklyOrders": 21,
     "pricePerKg": 230,
     "sliderType": "half_full",
     "benefits": [
@@ -232,14 +232,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 9,
       "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": 1793122266916,
     "name": "عسل الخروب",
     "image": "https://i.ibb.co/yc9vp8qj/1000023594.png",
-    "weeklyOrders": 15,
+    "weeklyOrders": 17,
     "pricePerKg": 240,
     "sliderType": "half_full",
     "benefits": [
@@ -258,14 +258,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 5,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   },
   {
     "id": 1793121927880,
     "name": "عسل السدر",
     "image": "https://i.ibb.co/gZ0Y6Zng/1000023589.jpg",
-    "weeklyOrders": 15,
+    "weeklyOrders": 17,
     "pricePerKg": 200,
     "sliderType": "half_full",
     "benefits": [
@@ -284,7 +284,7 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 8,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-10-29"
+      "lastUpdatedDate": "2026-10-30"
     }
   }
 ]
