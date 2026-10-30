@@ -58,8 +58,18 @@
   {
     "id": "louz_beldi",
     "name": "اللوز البلدي",
-    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_louz_beldi_33463.webp",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400897639.webp",
     "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -71,17 +81,7 @@
       "الخيار الأول والأساسي لطحن (أملو) الأصلي.",
       "يستعمل في سلو والحلويات التقليدية.",
       "يؤكل مباشرة للاستفادة القصوى من فوائده."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 6,
-      "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "garga3_kbala",
