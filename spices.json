@@ -3,7 +3,7 @@
     "id": "red-pepper",
     "name": "الفلفل الأحمر (التحميرة)",
     "pricePerKg": 50,
-    "image": "https://i.ibb.co/0pMrX8vC/1792539818846.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_red-pepper_23111.webp",
     "weeklyOrders": 18,
     "ordersConfig": {
       "startMin": 5,
@@ -54,7 +54,7 @@
     "id": "black-pepper",
     "name": "الفلفل الأسود (الإبزار الأكحل)",
     "pricePerKg": 130,
-    "image": "https://i.ibb.co/9HkKv5rb/1792539691968.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_black-pepper_55124.webp",
     "weeklyOrders": 20,
     "ordersConfig": {
       "startMin": 5,
@@ -71,7 +71,7 @@
     "id": "white-pepper",
     "name": "الفلفل الأبيض (الإبزار الأبيض)",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/zTVM1x34/1792539758667.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_white-pepper_61174.webp",
     "weeklyOrders": 20,
     "ordersConfig": {
       "startMin": 5,
@@ -88,7 +88,7 @@
     "id": "cumin-indian",
     "name": "الكمون الهندي",
     "pricePerKg": 120,
-    "image": "https://i.ibb.co/JjbKjNqc/1792539891370.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cumin-indian_95849.webp",
     "weeklyOrders": 21,
     "ordersConfig": {
       "startMin": 5,
@@ -122,7 +122,7 @@
     "id": "cumin-egypt",
     "name": "الكمون المصري",
     "pricePerKg": 180,
-    "image": "https://i.ibb.co/HD9mXrFh/1792540117974.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cumin-egypt_80994.webp",
     "weeklyOrders": 20,
     "ordersConfig": {
       "startMin": 5,
@@ -139,7 +139,7 @@
     "id": "cinnamon-beldi",
     "name": "القرفة البلدية",
     "pricePerKg": 90,
-    "image": "https://i.ibb.co/bRJxZ7Sm/1792540196684.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cinnamon-beldi_87802.webp",
     "weeklyOrders": 22,
     "ordersConfig": {
       "startMin": 5,
@@ -173,7 +173,7 @@
     "id": "cinnamon-ceylon",
     "name": "القرفة السيلانية",
     "pricePerKg": 700,
-    "image": "https://i.ibb.co/TqTvJN9V/1792540408673.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cinnamon-ceylon_95988.webp",
     "weeklyOrders": 24,
     "ordersConfig": {
       "startMin": 5,
@@ -190,7 +190,7 @@
     "id": "cardamom",
     "name": "الهيل (قعقلة)",
     "pricePerKg": 700,
-    "image": "https://i.ibb.co/hFj7kt7S/1792540504079.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cardamom_32467.webp",
     "weeklyOrders": 17,
     "ordersConfig": {
       "startMin": 5,
@@ -207,7 +207,7 @@
     "id": "bessibissa",
     "name": "بسيبيسا",
     "pricePerKg": 700,
-    "image": "https://i.ibb.co/k6VgKfq7/1792540594606.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_bessibissa_40476.webp",
     "weeklyOrders": 23,
     "ordersConfig": {
       "startMin": 5,
@@ -224,7 +224,7 @@
     "id": "badyana",
     "name": "باضيانة (اليانسون النجمي)",
     "pricePerKg": 300,
-    "image": "https://i.ibb.co/Vp5P9Gq5/1792540855285.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_badyana_45306.webp",
     "weeklyOrders": 19,
     "ordersConfig": {
       "startMin": 5,
@@ -258,7 +258,7 @@
     "id": "bastila-fish",
     "name": "خلطة توابل بسطيلة الحوت",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/HMzsjT5/1792573892504.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_bastila-fish_39227.webp",
     "weeklyOrders": 18,
     "ordersConfig": {
       "startMin": 5,
@@ -275,7 +275,7 @@
     "id": "bastila-chicken",
     "name": "خلطة توابل بسطيلة الدجاج",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_bastila-chicken_44970.webp",
     "weeklyOrders": 25,
     "ordersConfig": {
       "startMin": 5,
@@ -292,7 +292,7 @@
     "id": "meat-spices",
     "name": "خلطة توابل اللحم (المروزية)",
     "pricePerKg": 250,
-    "image": "https://i.ibb.co/0VmDbzV9/1792574068604.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_meat-spices_49831.webp",
     "weeklyOrders": 17,
     "ordersConfig": {
       "startMin": 5,
@@ -309,7 +309,7 @@
     "id": "chicken-spices",
     "name": "خلطة توابل الدجاج",
     "pricePerKg": 200,
-    "image": "https://i.ibb.co/vvfPqRyM/1792574162256.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_chicken-spices_54012.webp",
     "weeklyOrders": 23,
     "ordersConfig": {
       "startMin": 5,
@@ -343,7 +343,7 @@
     "id": "garlic-flaked",
     "name": "الثوم مهرمش (مجفف)",
     "pricePerKg": 150,
-    "image": "https://i.ibb.co/DPGVF1TM/IMG-20261021-WA0000.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_garlic-flaked_45509.webp",
     "weeklyOrders": 18,
     "ordersConfig": {
       "startMin": 5,
