@@ -4,7 +4,7 @@
     "name": "المشاط الأحمر",
     "weight": "200 غرام",
     "price": 120,
-    "image": "https://i.ibb.co/G3f7J0xx/1792497964391.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_al-mshat-al-ahmar_50795.webp",
     "category": "الجمال والعناية الطبيعية",
     "benefits": [
       "عناية متكاملة مخصصة للشعر فقط: يمنح خصلات الشعر انعكاسات ولمعة كستنائية/محمرة طبيعية وساحرة تدوم، خصوصاً عند دمجه مع الحناء أو استخدامه بانتظام.",
@@ -65,7 +65,7 @@
   {
     "id": "mask-al-nila-al-zarqaa",
     "name": "ماسك النيلة الزرقاء للوجه",
-    "image": "https://i.ibb.co/5zsPdJ1/1792438706376.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_mask-al-nila-al-zarqaa_61851.webp",
     "weeklyOrders": 19,
     "price": 69,
     "weight": "100 غرام",
@@ -96,7 +96,7 @@
   {
     "id": "mask-al-akar-al-fassi",
     "name": "ماسك العكر الفاسي للوجه",
-    "image": "https://i.ibb.co/C3rCjS2p/1792442657234.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_mask-al-akar-al-fassi_68128.webp",
     "weeklyOrders": 22,
     "price": 69,
     "weight": "100 غرام",
@@ -127,7 +127,7 @@
   {
     "id": "muqashir-al-nila-al-zarqaa",
     "name": "مقشر النيلة الزرقاء للجسم",
-    "image": "https://i.ibb.co/mC3MtF2G/1792443057708.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_muqashir-al-nila-al-zarqaa_76594.webp",
     "weeklyOrders": 20,
     "price": 69,
     "weight": "100 غرام",
@@ -189,7 +189,7 @@
   {
     "id": "mokhmariyat-al-arous",
     "name": "مخمرية العروس",
-    "image": "https://i.ibb.co/DfHnGqqJ/1792443401150.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_mokhmariyat-al-arous_59120.webp",
     "weeklyOrders": 18,
     "price": 59,
     "weight": "50 غرام",
@@ -220,7 +220,7 @@
   {
     "id": "al-nila-al-zarqaa-al-asliya",
     "name": "النيلة الزرقاء الأصلية",
-    "image": "https://i.ibb.co/MDDgbs6P/1792445534242.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_al-nila-al-zarqaa-al-asliya_63578.webp",
     "weeklyOrders": 18,
     "price": 90,
     "weight": "100 غرام",
@@ -281,7 +281,7 @@
   {
     "id": "natural-deodorant",
     "name": "مزيل العرق الطبيعي",
-    "image": "https://i.ibb.co/wNbHghsm/1792495653398.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_natural-deodorant_15571.webp",
     "weeklyOrders": 18,
     "price": 69,
     "weight": "100 غرام",
