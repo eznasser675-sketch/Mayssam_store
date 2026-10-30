@@ -226,8 +226,18 @@
   {
     "id": "homs_beldi",
     "name": "حمص بلدي",
-    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_homs_beldi_25915.webp",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400941954.webp",
     "weeklyOrders": 19,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-10-26",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-10-30"
+    },
     "pricePerKg": 35,
     "sliderType": "half_full",
     "benefits": [
@@ -239,17 +249,7 @@
       "من أساسيات الفاكية المغربية عاشوراء.",
       "يستهلك يومياً كوجبة خفيفة صحية.",
       "يمكن طحنه واستعماله في بعض الوصفات التقليدية."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 5,
-      "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-10-30"
-    }
+    ]
   },
   {
     "id": "kawkaw_ghlid",
