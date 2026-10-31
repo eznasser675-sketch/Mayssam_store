@@ -19,7 +19,7 @@
       "المدة: لفي الشعر بغطاء بلاستيكي، واتركيه لمدة ساعتين (أو من ساعتين إلى 4 ساعات في حال خلطه مع الحناء).",
       "الشطف: يُشطف الشعر جيداً بالماء الفاتر حتى يزول المسحوق بالكامل، ثم يُغسل ببلسم أو شامبو خفيف. (يُستعمل مرة واحدة أسبوعياً للحفاظ على حيوية ولون ولمعان الشعر)."
     ],
-    "weeklyOrders": 20,
+    "weeklyOrders": 21,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -28,14 +28,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 15,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "al-mshat-al-akhdar",
     "name": "المشاط الأخضر",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_al-mshat-al-akhdar_30930.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 19,
     "price": 120,
     "weight": "200 غرام",
     "benefits": [
@@ -59,14 +59,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 10,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "mask-al-nila-al-zarqaa",
     "name": "ماسك النيلة الزرقاء للوجه",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_mask-al-nila-al-zarqaa_61851.webp",
-    "weeklyOrders": 19,
+    "weeklyOrders": 22,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -90,14 +90,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 13,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "mask-al-akar-al-fassi",
     "name": "ماسك العكر الفاسي للوجه",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_mask-al-akar-al-fassi_68128.webp",
-    "weeklyOrders": 22,
+    "weeklyOrders": 23,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -121,14 +121,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 14,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "muqashir-al-nila-al-zarqaa",
     "name": "مقشر النيلة الزرقاء للجسم",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_muqashir-al-nila-al-zarqaa_76594.webp",
-    "weeklyOrders": 20,
+    "weeklyOrders": 22,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -152,14 +152,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 15,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "muqashir-al-akar-al-fassi",
     "name": "مقشر العكر الفاسي للجسم",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_1793400523976.webp",
-    "weeklyOrders": 20,
+    "weeklyOrders": 23,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -168,7 +168,7 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 8,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     },
     "price": 69,
     "weight": "100 غرام",
@@ -190,7 +190,7 @@
     "id": "mokhmariyat-al-arous",
     "name": "مخمرية العروس",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_mokhmariyat-al-arous_59120.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 20,
     "price": 59,
     "weight": "50 غرام",
     "benefits": [
@@ -214,14 +214,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 12,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "al-nila-al-zarqaa-al-asliya",
     "name": "النيلة الزرقاء الأصلية",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_al-nila-al-zarqaa-al-asliya_63578.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 19,
     "price": 90,
     "weight": "100 غرام",
     "benefits": [
@@ -244,14 +244,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 14,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "al-akar-al-fassi-al-asli",
     "name": "العكر الفاسي الأصلي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_al-akar-al-fassi-al-asli_13422.webp",
-    "weeklyOrders": 23,
+    "weeklyOrders": 26,
     "price": 90,
     "weight": "100 غرام",
     "benefits": [
@@ -275,14 +275,14 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 11,
       "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   },
   {
     "id": "natural-deodorant",
     "name": "مزيل العرق الطبيعي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/beauty_natural-deodorant_15571.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 21,
     "price": 69,
     "weight": "100 غرام",
     "benefits": [
@@ -305,7 +305,7 @@
       "weekId": "week_2026-10-26",
       "weekStartVal": 7,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-10-30"
+      "lastUpdatedDate": "2026-10-31"
     }
   }
 ]
