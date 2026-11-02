@@ -4,16 +4,16 @@
     "name": "الفلفل الأحمر (التحميرة)",
     "pricePerKg": 50,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_red-pepper_23111.webp",
-    "weeklyOrders": 21,
+    "weeklyOrders": 10,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 13,
-      "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -21,32 +21,32 @@
     "name": "الخرقوم البلدي (الكركم)",
     "pricePerKg": 70,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_kharkoum_95810.webp",
-    "weeklyOrders": 30,
+    "weeklyOrders": 8,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 11,
-      "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
     "id": "zanjabil",
     "name": "الزنجبيل (سكنجبير)",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_1793400571833.webp",
-    "weeklyOrders": 30,
+    "weeklyOrders": 10,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 15,
-      "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-11-02"
     },
     "pricePerKg": 90,
     "sliderType": "standard"
@@ -56,16 +56,16 @@
     "name": "الفلفل الأسود (الإبزار الأكحل)",
     "pricePerKg": 130,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_black-pepper_55124.webp",
-    "weeklyOrders": 27,
+    "weeklyOrders": 12,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 5,
-      "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 23,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -73,16 +73,16 @@
     "name": "الفلفل الأبيض (الإبزار الأبيض)",
     "pricePerKg": 200,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_white-pepper_61174.webp",
-    "weeklyOrders": 28,
+    "weeklyOrders": 12,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 5,
-      "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -90,16 +90,16 @@
     "name": "الكمون الهندي",
     "pricePerKg": 120,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cumin-indian_95849.webp",
-    "weeklyOrders": 27,
+    "weeklyOrders": 10,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 8,
-      "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -107,16 +107,16 @@
     "name": "الكمون البلدي",
     "pricePerKg": 300,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cumin-beldi_09680.webp",
-    "weeklyOrders": 25,
+    "weeklyOrders": 12,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 6,
-      "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -124,16 +124,16 @@
     "name": "الكمون المصري",
     "pricePerKg": 180,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cumin-egypt_80994.webp",
-    "weeklyOrders": 24,
+    "weeklyOrders": 8,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 10,
-      "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 29,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -141,16 +141,16 @@
     "name": "القرفة البلدية",
     "pricePerKg": 90,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cinnamon-beldi_87802.webp",
-    "weeklyOrders": 27,
+    "weeklyOrders": 5,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 11,
-      "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -158,16 +158,16 @@
     "name": "القرفة الصينية",
     "pricePerKg": 150,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cinnamon-china_63830.webp",
-    "weeklyOrders": 21,
+    "weeklyOrders": 14,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 7,
-      "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 14,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -175,16 +175,16 @@
     "name": "القرفة السيلانية",
     "pricePerKg": 700,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cinnamon-ceylon_95988.webp",
-    "weeklyOrders": 30,
+    "weeklyOrders": 8,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 11,
-      "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -192,16 +192,16 @@
     "name": "الهيل (قعقلة)",
     "pricePerKg": 700,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_cardamom_32467.webp",
-    "weeklyOrders": 21,
+    "weeklyOrders": 6,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 10,
-      "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -209,16 +209,16 @@
     "name": "بسيبيسا",
     "pricePerKg": 700,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_bessibissa_40476.webp",
-    "weeklyOrders": 27,
+    "weeklyOrders": 10,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 14,
-      "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -226,16 +226,16 @@
     "name": "باضيانة (اليانسون النجمي)",
     "pricePerKg": 300,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_badyana_45306.webp",
-    "weeklyOrders": 22,
+    "weeklyOrders": 11,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 12,
-      "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 11,
+      "weekTargetEndVal": 26,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -243,16 +243,16 @@
     "name": "خلطة توابل السمك (الحوت)",
     "pricePerKg": 150,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_fish-spices_99789.webp",
-    "weeklyOrders": 27,
+    "weeklyOrders": 10,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 14,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 10,
       "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-01"
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -260,16 +260,16 @@
     "name": "خلطة توابل بسطيلة الحوت",
     "pricePerKg": 200,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_bastila-fish_39227.webp",
-    "weeklyOrders": 20,
+    "weeklyOrders": 10,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 15,
-      "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 28,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -277,16 +277,16 @@
     "name": "خلطة توابل بسطيلة الدجاج",
     "pricePerKg": 200,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_bastila-chicken_44970.webp",
-    "weeklyOrders": 30,
+    "weeklyOrders": 6,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 15,
-      "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -294,16 +294,16 @@
     "name": "خلطة توابل اللحم (المروزية)",
     "pricePerKg": 250,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_meat-spices_49831.webp",
-    "weeklyOrders": 22,
+    "weeklyOrders": 12,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 8,
-      "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 29,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -311,16 +311,16 @@
     "name": "خلطة توابل الدجاج",
     "pricePerKg": 200,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_chicken-spices_54012.webp",
-    "weeklyOrders": 28,
+    "weeklyOrders": 15,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 14,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 15,
       "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-11-01"
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -328,16 +328,16 @@
     "name": "خلطة رأس الحانوت (المساخن)",
     "pricePerKg": 300,
     "image": "https://i.ibb.co/kFrxnHx/Screenshot-20261021-091859.jpg",
-    "weeklyOrders": 28,
+    "weeklyOrders": 10,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
+      "weekId": "week_2026-11-02",
       "weekStartVal": 10,
       "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-11-01"
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -345,16 +345,16 @@
     "name": "الثوم مهرمش (مجفف)",
     "pricePerKg": 150,
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_garlic-flaked_45509.webp",
-    "weeklyOrders": 21,
+    "weeklyOrders": 15,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 12,
-      "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-11-02"
     }
   },
   {
@@ -362,16 +362,16 @@
     "name": "البصل مهرمش (مجفف)",
     "pricePerKg": 150,
     "image": "https://i.ibb.co/JR18ckqD/IMG-20261021-WA0001-1.jpg",
-    "weeklyOrders": 30,
+    "weeklyOrders": 7,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-10-26",
-      "weekStartVal": 12,
-      "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-01"
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 25,
+      "lastUpdatedDate": "2026-11-02"
     }
   }
 ]
