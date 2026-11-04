@@ -3,7 +3,7 @@
     "id": "louz_romi_r9i9",
     "name": "اللوز الرومي رقيق",
     "image": "https://i.ibb.co/60jyLzfm/1000023503.jpg",
-    "weeklyOrders": 12,
+    "weeklyOrders": 17,
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -24,14 +24,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 12,
       "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "louz_romi_ghlid",
     "name": "اللوز الرومي غليض",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_louz_romi_ghlid_28255.webp",
-    "weeklyOrders": 15,
+    "weeklyOrders": 17,
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -52,14 +52,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 15,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "louz_beldi",
     "name": "اللوز البلدي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400897639.webp",
-    "weeklyOrders": 12,
+    "weeklyOrders": 17,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -68,7 +68,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 12,
       "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     },
     "pricePerKg": 120,
     "sliderType": "half_full",
@@ -87,7 +87,7 @@
     "id": "garga3_kbala",
     "name": "الكركاع كبالة",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_garga3_kbala_37779.webp",
-    "weeklyOrders": 9,
+    "weeklyOrders": 13,
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -108,14 +108,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 9,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "garga3_noss",
     "name": "الكركاع النص",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400867555.webp",
-    "weeklyOrders": 5,
+    "weeklyOrders": 11,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -124,7 +124,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 5,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     },
     "pricePerKg": 100,
     "sliderType": "half_full",
@@ -143,7 +143,7 @@
     "id": "cajou",
     "name": "الكاجو",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400913953.webp",
-    "weeklyOrders": 8,
+    "weeklyOrders": 12,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -152,7 +152,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 8,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     },
     "pricePerKg": 170,
     "sliderType": "half_full",
@@ -171,7 +171,7 @@
     "id": "pistache",
     "name": "بيسطاش",
     "image": "https://i.ibb.co/W4Swxb5z/1000023545.jpg",
-    "weeklyOrders": 5,
+    "weeklyOrders": 10,
     "pricePerKg": 210,
     "sliderType": "half_full",
     "benefits": [
@@ -192,14 +192,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 5,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "homs_turki",
     "name": "حمص تركيا",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400928689.webp",
-    "weeklyOrders": 15,
+    "weeklyOrders": 16,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -208,7 +208,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 15,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     },
     "pricePerKg": 65,
     "sliderType": "half_full",
@@ -227,7 +227,7 @@
     "id": "homs_beldi",
     "name": "حمص بلدي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400941954.webp",
-    "weeklyOrders": 8,
+    "weeklyOrders": 14,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -236,7 +236,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 8,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     },
     "pricePerKg": 35,
     "sliderType": "half_full",
@@ -255,7 +255,7 @@
     "id": "kawkaw_ghlid",
     "name": "كاوكاو غليض محمر",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793400958840.webp",
-    "weeklyOrders": 6,
+    "weeklyOrders": 13,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -264,7 +264,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 6,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     },
     "pricePerKg": 50,
     "sliderType": "half_full",
@@ -283,7 +283,7 @@
     "id": "kawkaw_r9i9",
     "name": "كاوكاو رقيق محمر",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_kawkaw_r9i9_80364.webp",
-    "weeklyOrders": 9,
+    "weeklyOrders": 15,
     "pricePerKg": 60,
     "sliderType": "half_full",
     "benefits": [
@@ -304,7 +304,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 9,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   }
 ]
