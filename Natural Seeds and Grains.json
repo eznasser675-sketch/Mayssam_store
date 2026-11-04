@@ -15,7 +15,7 @@
       "يضاف إلى المخبوزات والگرص لرفع قيمتها الغذائية.",
       "يمكن تناوله مع التمر كمقوي طبيعي للأطفال."
     ],
-    "weeklyOrders": 14,
+    "weeklyOrders": 17,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -24,7 +24,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 14,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -42,7 +42,7 @@
       "يستعمل بشكل أساسي لتزيين الحلويات، الصابلي، والمخبوزات.",
       "مثالي للطبخ وتزيين الأطباق التقليدية كالدجاج المحمر واللحم بالبرقوق."
     ],
-    "weeklyOrders": 11,
+    "weeklyOrders": 17,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -51,7 +51,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 11,
       "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -69,7 +69,7 @@
       "تطحن وتضاف فوراً للسلطات أو الياغورت (لا يجب طحنها وتخزينها).",
       "تغلى في الماء للحصول على جيل طبيعي ماسك للشعر."
     ],
-    "weeklyOrders": 9,
+    "weeklyOrders": 14,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -78,7 +78,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 9,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -96,7 +96,7 @@
       "يضاف لعجين الخبز لتعزيز قيمته الغذائية وإعطائه نكهة بلدية.",
       "يخلط القليل منه مع العسل كعلاج طبيعي للزكام وتقوية المناعة."
     ],
-    "weeklyOrders": 9,
+    "weeklyOrders": 14,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -105,7 +105,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 9,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -123,7 +123,7 @@
       "يضاف للحليب الساخن (الحسوة) ويشرب خصوصاً في أيام البرد.",
       "يخلط مع التمر العجوة مفيد جدا للصحة والطاقة."
     ],
-    "weeklyOrders": 9,
+    "weeklyOrders": 13,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -132,14 +132,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 9,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "nafe3",
     "name": "النافع",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/seeds_nafe3_91339.webp",
-    "weeklyOrders": 11,
+    "weeklyOrders": 14,
     "pricePerKg": 120,
     "sliderType": "standard",
     "benefits": [
@@ -159,7 +159,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 11,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -177,7 +177,7 @@
       "ترافق النافع دائماً في تحضير الشباكية والحلويات المغربية الأصيلة.",
       "تشرب كشاي مهدئ للأعصاب ومنظم للهضم."
     ],
-    "weeklyOrders": 9,
+    "weeklyOrders": 14,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -186,7 +186,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 9,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -204,7 +204,7 @@
       "تغلى كشاي خفيف لتهدئة مغص الأطفال والرضع بأمان.",
       "تستعمل كمنكه صحي في بعض الشوربات التقليدية."
     ],
-    "weeklyOrders": 8,
+    "weeklyOrders": 12,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -213,7 +213,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 8,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -231,7 +231,7 @@
       "تطحن وتخلط مع العسل الطبيعي والمكسرات كعلاج مقوي يومي.",
       "ينصح بها في الوصفات الطبيعية للزوجين."
     ],
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -240,14 +240,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 15,
       "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "zari3at_broccoli",
     "name": "زريعة البروكلي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/seeds_zari3at_broccoli_17278.webp",
-    "weeklyOrders": 10,
+    "weeklyOrders": 16,
     "pricePerKg": 180,
     "sliderType": "standard",
     "benefits": [
@@ -267,7 +267,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 10,
       "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
@@ -285,7 +285,7 @@
       "تطحن وتخلط مع العسل للاستفادة العلاجية.",
       "يمكن استنباتها كبذور البروكلي وتناول براعمها مع السلطة."
     ],
-    "weeklyOrders": 12,
+    "weeklyOrders": 15,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -294,14 +294,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 12,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "zari3at_m3adnous",
     "name": "زريعة المعدنوس",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/seeds_1793648709331.webp",
-    "weeklyOrders": 12,
+    "weeklyOrders": 16,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -310,7 +310,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 12,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     },
     "pricePerKg": 100,
     "sliderType": "standard",
@@ -328,7 +328,7 @@
     "id": "zari3at_lfessa",
     "name": "زريعة الفصة",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/seeds_zari3at_lfessa_19718.webp",
-    "weeklyOrders": 14,
+    "weeklyOrders": 19,
     "pricePerKg": 100,
     "sliderType": "standard",
     "benefits": [
@@ -348,14 +348,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 14,
       "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   },
   {
     "id": "zari3at_krafes",
     "name": "زريعة الكرافس",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/seeds_zari3at_krafes_40138.webp",
-    "weeklyOrders": 14,
+    "weeklyOrders": 18,
     "pricePerKg": 100,
     "sliderType": "standard",
     "benefits": [
@@ -375,7 +375,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 14,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-11-02"
+      "lastUpdatedDate": "2026-11-04"
     }
   }
 ]
