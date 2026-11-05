@@ -21,7 +21,11 @@
   {
     "id": "healthy",
     "name": "الوصفات والأغذية الصحية",
-    "image": "https://i.ibb.co/kgCFGPLn/1000024093.png"
+    "icon": "🛍️",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/__categories___1793917363047.webp",
+    "file": "Healthy Recipes and Foods.json",
+    "url": "https://raw.githubusercontent.com/eznasser675-sketch/Mayssam_store/refs/heads/main/Healthy%20Recipes%20and%20Foods.json",
+    "active": true
   },
   {
     "id": "oils",
