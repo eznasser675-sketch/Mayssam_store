@@ -184,8 +184,18 @@
   {
     "id": "assel_daghmous",
     "name": "عسل الدغموس",
-    "image": "https://i.ibb.co/YTb2HgLT/1000023587.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793917084694.webp",
     "weeklyOrders": 14,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-11-05"
+    },
     "pricePerKg": 250,
     "sliderType": "half_full",
     "benefits": [
@@ -196,17 +206,7 @@
     "usage": [
       "للعلاج: ملعقة صغيرة مع الماء الدافئ على الريق.",
       "يستعمل كعلاج منزلي طبيعي في فصل الشتاء."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-11-02",
-      "weekStartVal": 7,
-      "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "moksarat_assel",
