@@ -326,8 +326,7 @@
   {
     "id": "ras-el-hanout",
     "name": "خلطة رأس الحانوت (المساخن)",
-    "pricePerKg": 300,
-    "image": "https://i.ibb.co/kFrxnHx/Screenshot-20261021-091859.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_1793916696169.webp",
     "weeklyOrders": 19,
     "ordersConfig": {
       "startMin": 5,
@@ -338,7 +337,9 @@
       "weekStartVal": 10,
       "weekTargetEndVal": 28,
       "lastUpdatedDate": "2026-11-05"
-    }
+    },
+    "pricePerKg": 300,
+    "sliderType": "standard"
   },
   {
     "id": "garlic-flaked",
