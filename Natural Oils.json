@@ -122,8 +122,18 @@
   {
     "id": "zit_ward",
     "name": "زيت الورد",
-    "image": "https://i.ibb.co/8n4DCGsN/IMG-6023.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_1793917123357.webp",
     "weeklyOrders": 18,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 10,
+      "weekTargetEndVal": 25,
+      "lastUpdatedDate": "2026-11-05"
+    },
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -137,17 +147,7 @@
     "usage": [
       "تدهن به البشرة ليلاً قبل النوم كمرطب.",
       "تضاف قطرات منه لماء الاستحمام لتعطير وتنعيم الجسم."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-11-02",
-      "weekStartVal": 10,
-      "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "zit_louz_hlo",
