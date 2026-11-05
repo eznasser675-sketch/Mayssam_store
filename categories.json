@@ -11,7 +11,11 @@
   {
     "id": "spices",
     "name": "التوابل للطبخ",
-    "image": "https://i.ibb.co/RTPQmr54/1000024086.jpg"
+    "icon": "🛍️",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/__categories___1793917403426.webp",
+    "file": "spices.json",
+    "url": "https://raw.githubusercontent.com/eznasser675-sketch/Mayssam_store/refs/heads/main/spices.json",
+    "active": true
   },
   {
     "id": "herbs",
