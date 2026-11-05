@@ -2,8 +2,18 @@
   {
     "id": "louz_romi_r9i9",
     "name": "اللوز الرومي رقيق",
-    "image": "https://i.ibb.co/60jyLzfm/1000023503.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793917264107.webp",
     "weeklyOrders": 20,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-11-05"
+    },
     "pricePerKg": 120,
     "sliderType": "half_full",
     "benefits": [
@@ -15,17 +25,7 @@
       "يستهلك كوجبة خفيفة ومغذية في أي وقت.",
       "مثالي في تحضير الحلويات المغربية.",
       "يمكن إضافته لوجبات الفطور الصحية."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-11-02",
-      "weekStartVal": 12,
-      "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "louz_romi_ghlid",
