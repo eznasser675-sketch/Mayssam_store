@@ -361,8 +361,7 @@
   {
     "id": "onion-flaked",
     "name": "البصل مهرمش (مجفف)",
-    "pricePerKg": 150,
-    "image": "https://i.ibb.co/JR18ckqD/IMG-20261021-WA0001-1.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/spices_1793916739833.webp",
     "weeklyOrders": 16,
     "ordersConfig": {
       "startMin": 5,
@@ -373,6 +372,8 @@
       "weekStartVal": 7,
       "weekTargetEndVal": 25,
       "lastUpdatedDate": "2026-11-05"
-    }
+    },
+    "pricePerKg": 150,
+    "sliderType": "standard"
   }
 ]
