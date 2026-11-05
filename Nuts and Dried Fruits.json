@@ -170,8 +170,18 @@
   {
     "id": "pistache",
     "name": "بيسطاش",
-    "image": "https://i.ibb.co/W4Swxb5z/1000023545.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/nuts_1793917292318.webp",
     "weeklyOrders": 13,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-11-05"
+    },
     "pricePerKg": 210,
     "sliderType": "half_full",
     "benefits": [
@@ -183,17 +193,7 @@
       "للتناول المباشر مع الشاي أو في المناسبات.",
       "يزين به الآيس كريم والحلويات.",
       "يستعمل في تحضير النوكا والحلويات الفاخرة."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-11-02",
-      "weekStartVal": 5,
-      "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "homs_turki",
