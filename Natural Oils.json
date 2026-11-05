@@ -182,8 +182,18 @@
   {
     "id": "zit_louz_mor",
     "name": "زيت اللوز المر",
-    "image": "https://i.ibb.co/jS8WwT6/IMG-6025.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_1793917144321.webp",
     "weeklyOrders": 15,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 21,
+      "lastUpdatedDate": "2026-11-05"
+    },
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -197,17 +207,7 @@
     "usage": [
       "يستعمل للاستخدام الخارجي فقط.",
       "يدهن به الوجه أو المناطق الداكنة ليلاً ويغسل جيداً في الصباح."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-11-02",
-      "weekStartVal": 8,
-      "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "zit_erq_sous",
