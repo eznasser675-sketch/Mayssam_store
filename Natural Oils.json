@@ -92,8 +92,18 @@
   {
     "id": "zit_qronfel",
     "name": "زيت القرنفل",
-    "image": "https://i.ibb.co/XkMxK6b6/IMG-6022.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_1793917236378.webp",
     "weeklyOrders": 17,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 12,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-11-05"
+    },
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -107,17 +117,7 @@
     "usage": [
       "توضع قطرة صغيرة على قطنة وتمرر على السن المؤلم.",
       "يخلط مع زيت آخر (مثل زيت الزيتون) لتدليك المفاصل أو فروة الرأس."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-11-02",
-      "weekStartVal": 12,
-      "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "zit_ward",
