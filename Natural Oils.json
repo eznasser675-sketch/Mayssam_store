@@ -62,8 +62,18 @@
   {
     "id": "zit_sanouj",
     "name": "زيت السانوج (الحبة السوداء)",
-    "image": "https://i.ibb.co/bgJ8zzjb/IMG-6021.jpg",
+    "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/oils_1793917216589.webp",
     "weeklyOrders": 22,
+    "ordersConfig": {
+      "startMin": 5,
+      "startMax": 15,
+      "endMin": 20,
+      "endMax": 30,
+      "weekId": "week_2026-11-02",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-11-05"
+    },
     "isLiquid": true,
     "fixedOnly": true,
     "fixedWeightGrams": 100,
@@ -77,17 +87,7 @@
     "usage": [
       "للتجميل: تدلك به فروة الرأس ويترك قبل الاستحمام.",
       "للصحة: يدهن به الصدر عند نزلات البرد أو تدلك به المفاصل."
-    ],
-    "ordersConfig": {
-      "startMin": 5,
-      "startMax": 15,
-      "endMin": 20,
-      "endMax": 30,
-      "weekId": "week_2026-11-02",
-      "weekStartVal": 15,
-      "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-05"
-    }
+    ]
   },
   {
     "id": "zit_qronfel",
