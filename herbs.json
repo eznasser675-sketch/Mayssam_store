@@ -3,7 +3,7 @@
     "id": "ward-beldi",
     "name": "الورد البلدي المجفف",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793400604904.webp",
-    "weeklyOrders": 19,
+    "weeklyOrders": 22,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -12,7 +12,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 12,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 300,
     "sliderType": "standard",
@@ -30,7 +30,7 @@
     "id": "dayl-al-hisan",
     "name": "ذيل الحصان (عشبة الكنباث)",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793387644484.webp",
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -39,7 +39,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 7,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 600,
     "sliderType": "standard",
@@ -68,7 +68,7 @@
       "تنقع ملعقة صغيرة في كأس ماء ساخن لمدة 10 دقائق وتشرب قبل النوم للاسترخاء.",
       "يستعمل مغلي الخزامى دافئاً كغسول خارجي أو للتبخير في الحمام."
     ],
-    "weeklyOrders": 16,
+    "weeklyOrders": 18,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -77,14 +77,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 12,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     }
   },
   {
     "id": "zaitra",
     "name": "الزعيترة البلدية",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793917019108.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 21,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -93,7 +93,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 11,
       "weekTargetEndVal": 26,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 120,
     "sliderType": "standard",
@@ -122,7 +122,7 @@
       "ينقع في ماء مغلي لمدة 7 إلى 10 دقائق ويحلى بملعقة عسل دافئ.",
       "يضاف كمنسم للأطعمة والمخبوزات وزيت الزيتون والشاي المغربي."
     ],
-    "weeklyOrders": 21,
+    "weeklyOrders": 23,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -131,14 +131,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 13,
       "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     }
   },
   {
     "id": "karkadeh",
     "name": "الكركديه (الكاركاديه)",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793916935755.webp",
-    "weeklyOrders": 15,
+    "weeklyOrders": 19,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -147,7 +147,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 5,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 130,
     "sliderType": "standard",
@@ -176,7 +176,7 @@
       "تنقع ملعقة من أزهار البابونج في كأس ماء مغلي وتغطى لمدة 10 دقائق ثم تصفى وتشرب.",
       "يستخدم منقوعه المبرد ككمادات للعينين أو كغسول مهدئ للبشرة المتهيجة."
     ],
-    "weeklyOrders": 16,
+    "weeklyOrders": 18,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -185,7 +185,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 8,
       "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     }
   },
   {
@@ -203,7 +203,7 @@
       "تنقع وريقات اللويزة في ماء مغلي لمدة 5 إلى 7 دقائق وتغطى للاحتفاظ بزيوتها الطيارة.",
       "تشرب دافئة مساءً قبل النوم بنصف ساعة أو بعد وجبة العشاء الدسمة."
     ],
-    "weeklyOrders": 20,
+    "weeklyOrders": 24,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -212,14 +212,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 10,
       "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     }
   },
   {
     "id": "naanaa",
     "name": "النعناع المجفف البلدي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793916894694.webp",
-    "weeklyOrders": 17,
+    "weeklyOrders": 19,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -228,7 +228,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 12,
       "weekTargetEndVal": 22,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 200,
     "sliderType": "standard",
@@ -257,7 +257,7 @@
       "يغلى مع الحليب وقطرة زيت زيتون ورشة إبزار ويشرب ساخناً قبل النوم لعلاج البرد.",
       "ينقع في الماء الساخن ويستنشق بخاره لتسريح الأنف والصدر."
     ],
-    "weeklyOrders": 15,
+    "weeklyOrders": 17,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -266,14 +266,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 6,
       "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     }
   },
   {
     "id": "sidr",
     "name": "أوراق السدر المجففة",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793400635205.webp",
-    "weeklyOrders": 13,
+    "weeklyOrders": 16,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -282,7 +282,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 6,
       "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 80,
     "sliderType": "standard",
@@ -300,7 +300,7 @@
     "id": "rayhan",
     "name": "الريحان المجفف",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793916792605.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 22,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -309,7 +309,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 6,
       "weekTargetEndVal": 30,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 120,
     "sliderType": "standard",
@@ -338,7 +338,7 @@
       "تطحن وتخلط مع زيت الزيتون الدافئ وتستعمل للتدليك الخارجي للمفاصل وأسفل الظهر.",
       "تستعمل بجرعات صغيرة جداً ومحددة بعد استشارة العطار المختص."
     ],
-    "weeklyOrders": 16,
+    "weeklyOrders": 19,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -347,7 +347,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 7,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     }
   },
   {
@@ -365,7 +365,7 @@
       "توضع قطعة صغيرة على الجمر للتبخير الشخصي أو تبخير المنزل.",
       "تطحن وتدمج بحذر في خلطات التدليك الدافئة والمساج التقليدي."
     ],
-    "weeklyOrders": 14,
+    "weeklyOrders": 16,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -374,14 +374,14 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 8,
       "weekTargetEndVal": 20,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     }
   },
   {
     "id": "qist-hindi",
     "name": "القسط الهندي الطبيعي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/herbs_1793400707383.webp",
-    "weeklyOrders": 20,
+    "weeklyOrders": 23,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
@@ -390,7 +390,7 @@
       "weekId": "week_2026-11-02",
       "weekStartVal": 13,
       "weekTargetEndVal": 28,
-      "lastUpdatedDate": "2026-11-05"
+      "lastUpdatedDate": "2026-11-06"
     },
     "pricePerKg": 250,
     "sliderType": "standard",
