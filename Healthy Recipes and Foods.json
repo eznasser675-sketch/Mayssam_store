@@ -3,16 +3,16 @@
     "id": "amlou_louz",
     "name": "أملو باللوز الرومي",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793917059846.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 13,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 9,
-      "weekTargetEndVal": 27,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-11-23"
     },
     "variants": [
       {
@@ -52,7 +52,7 @@
     "id": "amlou_kawkaw",
     "name": "أملو بالكاوكاو",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_amlou_kawkaw_50102.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 6,
     "variants": [
       {
         "id": "v1",
@@ -91,17 +91,17 @@
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 13,
-      "weekTargetEndVal": 23,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 6,
+      "weekTargetEndVal": 30,
+      "lastUpdatedDate": "2026-11-23"
     }
   },
   {
     "id": "zit_argan_akl",
     "name": "زيت أركان للأكل",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_zit_argan_akl_55644.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 8,
     "isLiquid": true,
     "pricePerKg": 600,
     "sliderType": "half_full",
@@ -120,17 +120,17 @@
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 15,
-      "weekTargetEndVal": 21,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 8,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-11-23"
     }
   },
   {
     "id": "zit_zitoun",
     "name": "زيت الزيتون",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_zit_zitoun_60219.webp",
-    "weeklyOrders": 20,
+    "weeklyOrders": 11,
     "isLiquid": true,
     "pricePerKg": 60,
     "sliderType": "half_full",
@@ -148,17 +148,17 @@
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 14,
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 11,
       "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-19"
+      "lastUpdatedDate": "2026-11-23"
     }
   },
   {
     "id": "assel_limoun",
     "name": "عسل البرتقال",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_assel_limoun_65233.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 5,
     "pricePerKg": 100,
     "sliderType": "half_full",
     "benefits": [
@@ -175,26 +175,26 @@
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 11,
-      "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 5,
+      "weekTargetEndVal": 27,
+      "lastUpdatedDate": "2026-11-23"
     }
   },
   {
     "id": "assel_daghmous",
     "name": "عسل الدغموس",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793917084694.webp",
-    "weeklyOrders": 20,
+    "weeklyOrders": 15,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 14,
-      "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-11-23"
     },
     "pricePerKg": 250,
     "sliderType": "half_full",
@@ -212,16 +212,16 @@
     "id": "moksarat_assel",
     "name": "مكسرات بالعسل",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793401351067.webp",
-    "weeklyOrders": 16,
+    "weeklyOrders": 15,
     "ordersConfig": {
       "startMin": 5,
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 7,
-      "weekTargetEndVal": 24,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 15,
+      "weekTargetEndVal": 22,
+      "lastUpdatedDate": "2026-11-23"
     },
     "fixedOnly": true,
     "fixedWeightGrams": 250,
@@ -241,7 +241,7 @@
     "id": 1793122266916,
     "name": "عسل الخروب",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793122266916_24380.webp",
-    "weeklyOrders": 18,
+    "weeklyOrders": 13,
     "pricePerKg": 240,
     "sliderType": "half_full",
     "benefits": [
@@ -257,17 +257,17 @@
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 7,
-      "weekTargetEndVal": 29,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 13,
+      "weekTargetEndVal": 20,
+      "lastUpdatedDate": "2026-11-23"
     }
   },
   {
     "id": 1793121927880,
     "name": "عسل السدر",
     "image": "https://cdn.jsdelivr.net/gh/eznasser675-sketch/Mayssam_store@main/images/healthy_1793121927880_89578.webp",
-    "weeklyOrders": 15,
+    "weeklyOrders": 7,
     "pricePerKg": 200,
     "sliderType": "half_full",
     "benefits": [
@@ -283,10 +283,10 @@
       "startMax": 15,
       "endMin": 20,
       "endMax": 30,
-      "weekId": "week_2026-11-16",
-      "weekStartVal": 5,
-      "weekTargetEndVal": 25,
-      "lastUpdatedDate": "2026-11-19"
+      "weekId": "week_2026-11-23",
+      "weekStartVal": 7,
+      "weekTargetEndVal": 24,
+      "lastUpdatedDate": "2026-11-23"
     }
   }
 ]
